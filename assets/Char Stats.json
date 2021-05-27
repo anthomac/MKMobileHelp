@@ -1,0 +1,1339 @@
+﻿[
+  {
+    "Title": "Baraka",
+    "Rarity": "",
+    "Type": "",
+    "Stats": "",
+    "URL": ""
+  },
+  {
+    "Title": "Baraka/Scourge",
+    "Rarity": "Gold",
+    "Type": "Outworld",
+    "Stats": "Attack: 1225\nHealth: 1100\nToughness: 1050\nRecovery: 1050\nPower Gen: 100%",
+    "URL": "https://static.wikia.nocookie.net/mortalkombatx-mobile/images/9/97/Baraka_Scourge_2./revision/latest/scale-to-width-down/121?cb=20200820161536"
+  },
+  {
+    "Title": "Bo' Rai Cho",
+    "Rarity": "",
+    "Type": "",
+    "Stats": "",
+    "URL": ""
+  },
+  {
+    "Title": "Bo' Rai Cho/Dragon Breath",
+    "Rarity": "Gold",
+    "Type": "Martial Artist",
+    "Stats": "Attack: 1175\nHealth: 1200\nToughness: 1150\nRecovery: 1000\nPower Gen: 100%",
+    "URL": "https://static.wikia.nocookie.net/mortalkombatx-mobile/images/0/0b/Dragon_Breath_Bo%27_Rai_Cho_%282.0%29.png/revision/latest/scale-to-width-down/120?cb=20190923171654"
+  },
+  {
+    "Title": "Bronze Characters",
+    "Rarity": "",
+    "Type": "",
+    "Stats": "",
+    "URL": ""
+  },
+  {
+    "Title": "Cassie Cage",
+    "Rarity": "",
+    "Type": "",
+    "Stats": "",
+    "URL": ""
+  },
+  {
+    "Title": "Cassie Cage/Covert Ops",
+    "Rarity": "Gold",
+    "Type": "Spec Ops",
+    "Stats": "Attack: 1100\nHealth: 1000\nToughness: 1100\nRecovery: 990\nPower Gen: 100%",
+    "URL": "https://static.wikia.nocookie.net/mortalkombatx-mobile/images/f/f1/Covert_Ops_Cassie_Cage_%28v1%29.PNG/revision/latest/scale-to-width-down/120?cb=20170613105653"
+  },
+  {
+    "Title": "Cassie Cage/Standard",
+    "Rarity": "Silver",
+    "Type": "Spec Ops",
+    "Stats": "Attack: 520\nHealth: 380\nToughness: 400\nRecovery: 460\nPower Gen: 100%",
+    "URL": ""
+  },
+  {
+    "Title": "Cassie Cage/Strike Force",
+    "Rarity": "Diamond",
+    "Type": "Spec Ops",
+    "Stats": "Attack: 1380\nHealth: 1250\nToughness: 1350\nRecovery: 1380\nPower Gen: 100%",
+    "URL": "https://static.wikia.nocookie.net/mortalkombatx-mobile/images/6/68/Cassie_%28SF%29.JPG/revision/latest/scale-to-width-down/120?cb=20200802104255"
+  },
+  {
+    "Title": "Cassie Cage/Undercover",
+    "Rarity": "Gold",
+    "Type": "Spec Ops",
+    "Stats": "Attack: 900\nHealth: 820\nToughness: 850\nRecovery: 900\nPower Gen: 100%",
+    "URL": "https://static.wikia.nocookie.net/mortalkombatx-mobile/images/b/b3/Undercover_Cassie_Cage.png/revision/latest/scale-to-width-down/120?cb=20180306133135"
+  },
+  {
+    "Title": "Characters",
+    "Rarity": "Bo' Rai Cho/Dragon Breath",
+    "Type": "",
+    "Stats": "1175",
+    "URL": ""
+  },
+  {
+    "Title": "D'Vorah",
+    "Rarity": "",
+    "Type": "",
+    "Stats": "",
+    "URL": ""
+  },
+  {
+    "Title": "D'Vorah/Prime",
+    "Rarity": "Silver",
+    "Type": "Outworld",
+    "Stats": "Attack: 460\nHealth: 390\nToughness: 370\nRecovery: 410\nPower Gen: 100%",
+    "URL": ""
+  },
+  {
+    "Title": "D'Vorah/Swarm Queen",
+    "Rarity": "Gold",
+    "Type": "Outworld",
+    "Stats": "Attack: 740\nHealth: 720\nToughness: 850\nRecovery: 710\nPower Gen: 100%",
+    "URL": "https://static.wikia.nocookie.net/mortalkombatx-mobile/images/9/9e/Swarm_Queen.png/revision/latest/scale-to-width-down/120?cb=20161119075150"
+  },
+  {
+    "Title": "D'Vorah/Venomous",
+    "Rarity": "",
+    "Type": "",
+    "Stats": "Attack: 1050\nHealth: 1025\nToughness: 1125\nRecovery: 1000\nPower Gen: 110%",
+    "URL": ""
+  },
+  {
+    "Title": "D'Vorah/Wretch",
+    "Rarity": "Diamond",
+    "Type": "Outworld",
+    "Stats": "Attack: 1350\nHealth: 1350\nToughness: 1325\nRecovery: 1125\nPower Gen: 120%",
+    "URL": "https://static.wikia.nocookie.net/mortalkombatx-mobile/images/c/c6/Wretch_D%27Vorah.jpg/revision/latest/scale-to-width-down/120?cb=20170616134331"
+  },
+  {
+    "Title": "Diamond Characters",
+    "Rarity": "",
+    "Type": "",
+    "Stats": "",
+    "URL": ""
+  },
+  {
+    "Title": "Elder God Characters",
+    "Rarity": "",
+    "Type": "",
+    "Stats": "",
+    "URL": ""
+  },
+  {
+    "Title": "Ermac",
+    "Rarity": "",
+    "Type": "",
+    "Stats": "",
+    "URL": ""
+  },
+  {
+    "Title": "Ermac/Klassic",
+    "Rarity": "Gold",
+    "Type": "Outworld",
+    "Stats": "Attack: 1250\nHealth: 1125\nToughness: 1050\nRecovery: 1100\nPower Gen: 110%",
+    "URL": ""
+  },
+  {
+    "Title": "Ermac/Master of Souls",
+    "Rarity": "Gold",
+    "Type": "Outworld",
+    "Stats": "Attack: 940\nHealth: 850\nToughness: 950\nRecovery: 1100\nPower Gen: 100%",
+    "URL": ""
+  },
+  {
+    "Title": "Ermac/Pharaoh",
+    "Rarity": "Gold",
+    "Type": "Outworld",
+    "Stats": "Attack: 1225\nHealth: 980\nToughness: 1025\nRecovery: 1050\nPower Gen: 110%",
+    "URL": ""
+  },
+  {
+    "Title": "Ermac/Prime",
+    "Rarity": "Silver",
+    "Type": "Outworld",
+    "Stats": "Attack: 560\nHealth: 530\nToughness: 570\nRecovery: 670\nPower Gen: 100%",
+    "URL": ""
+  },
+  {
+    "Title": "Ermac/Spectral",
+    "Rarity": "Gold",
+    "Type": "Outworld",
+    "Stats": "Attack: 890\nHealth: 790\nToughness: 840\nRecovery: 900\nPower Gen: 100%",
+    "URL": ""
+  },
+  {
+    "Title": "Erron Black",
+    "Rarity": "",
+    "Type": "",
+    "Stats": "",
+    "URL": "https://static.wikia.nocookie.net/mortalkombatx-mobile/images/b/b6/Diamond_Day_of_the_Dead_Erron_Black.jpg/revision/latest/scale-to-width-down/120?cb=20190614072459"
+  },
+  {
+    "Title": "Erron Black/Black Dragon",
+    "Rarity": "Diamond",
+    "Type": "Nomad",
+    "Stats": "Attack: 1325\nHealth: 1300\nToughness: 1300\nRecovery: 1100\nPower Gen: 130%",
+    "URL": ""
+  },
+  {
+    "Title": "Erron Black/Day of the Dead",
+    "Rarity": "Diamond",
+    "Type": "Outworld",
+    "Stats": "Attack: 1380\nHealth: 1310\nToughness: 1500\nRecovery: 1380\nPower Gen: 110%",
+    "URL": "https://static.wikia.nocookie.net/mortalkombatx-mobile/images/b/b6/Diamond_Day_of_the_Dead_Erron_Black.jpg/revision/latest/scale-to-width-down/120?cb=20190614072459"
+  },
+  {
+    "Title": "Erron Black/Gunslinger",
+    "Rarity": "Gold",
+    "Type": "Outworld",
+    "Stats": "Attack: 1060\nHealth: 950\nToughness: 850\nRecovery: 1000\nPower Gen: 100%",
+    "URL": "https://static.wikia.nocookie.net/mortalkombatx-mobile/images/9/9e/Gunslinger_Erron_Black.jpg/revision/latest/scale-to-width-down/120?cb=20170122213147"
+  },
+  {
+    "Title": "Freddy Krueger",
+    "Rarity": "",
+    "Type": "",
+    "Stats": "",
+    "URL": "https://static.wikia.nocookie.net/mortalkombatx-mobile/images/a/ae/Diamond_Nightmare_Freddy_Krueger.jpg/revision/latest/scale-to-width-down/120?cb=20190614072505"
+  },
+  {
+    "Title": "Freddy Krueger/Nightmare",
+    "Rarity": "Diamond",
+    "Type": "Netherrealm",
+    "Stats": "Attack: 1500\nHealth: 1380\nToughness: 1380\nRecovery: 1320\nPower Gen: 120%",
+    "URL": "https://static.wikia.nocookie.net/mortalkombatx-mobile/images/a/ae/Diamond_Nightmare_Freddy_Krueger.jpg/revision/latest/scale-to-width-down/120?cb=20190614072505"
+  },
+  {
+    "Title": "Gold Characters",
+    "Rarity": "",
+    "Type": "",
+    "Stats": "",
+    "URL": ""
+  },
+  {
+    "Title": "Goro",
+    "Rarity": "",
+    "Type": "",
+    "Stats": "",
+    "URL": ""
+  },
+  {
+    "Title": "Goro/Klassic",
+    "Rarity": "Diamond",
+    "Type": "Outworld",
+    "Stats": "Attack: 1400\nHealth: 1400\nToughness: 1417\nRecovery: 1105\nPower Gen: 130%",
+    "URL": "https://static.wikia.nocookie.net/mortalkombatx-mobile/images/f/ff/Klassic_Goro.png/revision/latest/scale-to-width-down/115?cb=20180806135950"
+  },
+  {
+    "Title": "Goro/Tigrar Fury",
+    "Rarity": "Gold",
+    "Type": "Outworld",
+    "Stats": "Attack: 1200\nHealth: 1200\nToughness: 1150\nRecovery: 1000\nPower Gen: 105%",
+    "URL": "https://static.wikia.nocookie.net/mortalkombatx-mobile/images/b/b5/Tigrar_Fury_Goro.png/revision/latest/scale-to-width-down/120?cb=20171125074423"
+  },
+  {
+    "Title": "Jacqui Briggs",
+    "Rarity": "",
+    "Type": "",
+    "Stats": "",
+    "URL": ""
+  },
+  {
+    "Title": "Jacqui Briggs/Cybernetic",
+    "Rarity": "Gold",
+    "Type": "Spec Ops",
+    "Stats": "Attack: 800\nHealth: 900\nToughness: 990\nRecovery: 800\nPower Gen: 100%",
+    "URL": "https://static.wikia.nocookie.net/mortalkombatx-mobile/images/3/32/Cybernetic_Jacqui_Briggs.png/revision/latest/scale-to-width-down/120?cb=20180317162724"
+  },
+  {
+    "Title": "Jacqui Briggs/High Tech",
+    "Rarity": "Gold",
+    "Type": "Spec Ops",
+    "Stats": "Attack: 850\nHealth: 1100\nToughness: 1100\nRecovery: 1020\nPower Gen: 100%",
+    "URL": "https://static.wikia.nocookie.net/mortalkombatx-mobile/images/0/06/High_Tech_Jacqui_Briggs.png/revision/latest/scale-to-width-down/120?cb=20190822143228"
+  },
+  {
+    "Title": "Jacqui Briggs/Kosplay",
+    "Rarity": "Gold",
+    "Type": "Martial Artist",
+    "Stats": "Attack: 1250\nHealth: 1150\nToughness: 1075\nRecovery: 1050\nPower Gen: 100%",
+    "URL": ""
+  },
+  {
+    "Title": "Jacqui Briggs/Prime",
+    "Rarity": "Silver",
+    "Type": "Spec Ops",
+    "Stats": "Attack: 370\nHealth: 330\nToughness: 380\nRecovery: 300\nPower Gen: 100%",
+    "URL": ""
+  },
+  {
+    "Title": "Jade",
+    "Rarity": "",
+    "Type": "",
+    "Stats": "",
+    "URL": ""
+  },
+  {
+    "Title": "Jade/Assassin",
+    "Rarity": "Diamond",
+    "Type": "Outworld",
+    "Stats": "Attack: 1440\nHealth: 1440\nToughness: 1500\nRecovery: 1320\nPower Gen: 100%",
+    "URL": "https://static.wikia.nocookie.net/mortalkombatx-mobile/images/d/d4/Diamond_Assassin_Jade.jpg/revision/latest/scale-to-width-down/120?cb=20190614073053"
+  },
+  {
+    "Title": "Jade/Day of the Dead",
+    "Rarity": "Diamond",
+    "Type": "Outworld",
+    "Stats": "Attack: 1280\nHealth: 1500\nToughness: 1440\nRecovery: 1310\nPower Gen: 110%",
+    "URL": "https://static.wikia.nocookie.net/mortalkombatx-mobile/images/b/b9/Diamond_Day_of_the_Dead_Jade.jpg/revision/latest/scale-to-width-down/120?cb=20190614072459"
+  },
+  {
+    "Title": "Jade/Klassic",
+    "Rarity": "Gold",
+    "Type": "Outworld",
+    "Stats": "Attack: 1270\nHealth: 1100\nToughness: 1125\nRecovery: 1125\nPower Gen: 100%",
+    "URL": "https://static.wikia.nocookie.net/mortalkombatx-mobile/images/f/f2/Jade_%28Kl%29.jpg/revision/latest/scale-to-width-down/119?cb=20210331193226"
+  },
+  {
+    "Title": "Jade/MK11",
+    "Rarity": "Diamond",
+    "Type": "Netherrealm",
+    "Stats": "Attack: 1250\nHealth: 1200\nToughness: 975\nRecovery: 1200\nPower Gen: 100%",
+    "URL": "https://static.wikia.nocookie.net/mortalkombatx-mobile/images/0/0b/Jade_%28MK11%29.PNG/revision/latest/scale-to-width-down/120?cb=20200721061338"
+  },
+  {
+    "Title": "Jason Voorhees",
+    "Rarity": "",
+    "Type": "",
+    "Stats": "",
+    "URL": ""
+  },
+  {
+    "Title": "Jason Voorhees/Nightmare",
+    "Rarity": "Diamond",
+    "Type": "Netherrealm",
+    "Stats": "Attack: 1310\nHealth: 1310\nToughness: 1270\nRecovery: 1270\nPower Gen: 100%",
+    "URL": "https://static.wikia.nocookie.net/mortalkombatx-mobile/images/5/5f/N_JV.PNG/revision/latest/scale-to-width-down/119?cb=20201101130721"
+  },
+  {
+    "Title": "Jason Voorhees/Slasher",
+    "Rarity": "Gold",
+    "Type": "Netherrealm",
+    "Stats": "Attack: 1013\nHealth: 1013\nToughness: 1013\nRecovery: 1013\nPower Gen: 100%",
+    "URL": "https://static.wikia.nocookie.net/mortalkombatx-mobile/images/0/0e/Slasher_Jason_Voorhees.png/revision/latest/scale-to-width-down/120?cb=20180725130220"
+  },
+  {
+    "Title": "Jason Voorhees/Unstoppable",
+    "Rarity": "Gold",
+    "Type": "Netherrealm",
+    "Stats": "Attack: 913\nHealth: 913\nToughness: 1013\nRecovery: 1013\nPower Gen: 100%",
+    "URL": "https://static.wikia.nocookie.net/mortalkombatx-mobile/images/a/a7/Jason_%28U%29.PNG/revision/latest/scale-to-width-down/120?cb=20200719125416"
+  },
+  {
+    "Title": "Jax Briggs",
+    "Rarity": "",
+    "Type": "",
+    "Stats": "",
+    "URL": ""
+  },
+  {
+    "Title": "Jax Briggs/Circle of Shadow",
+    "Rarity": "Diamond",
+    "Type": "Netherrealm",
+    "Stats": "Attack: 1350\nHealth: 1230\nToughness: 1250\nRecovery: 850\nPower Gen: 100%",
+    "URL": "https://static.wikia.nocookie.net/mortalkombatx-mobile/images/4/45/Jax_%28CoS%29.JPG/revision/latest/scale-to-width-down/120?cb=20201026130104"
+  },
+  {
+    "Title": "Jax Briggs/Farmer",
+    "Rarity": "",
+    "Type": "",
+    "Stats": "Attack: 410\nHealth: 500\nToughness: 470\nRecovery: 380\nPower Gen: 100%",
+    "URL": ""
+  },
+  {
+    "Title": "Jax Briggs/Heavy Weapons",
+    "Rarity": "Gold",
+    "Type": "Spec Ops",
+    "Stats": "Attack: 870\nHealth: 1050\nToughness: 1200\nRecovery: 750\nPower Gen: 100%",
+    "URL": "https://static.wikia.nocookie.net/mortalkombatx-mobile/images/b/b4/Heavy_Weapons_Jax_Briggs.jpg/revision/latest/scale-to-width-down/120?cb=20170115200555"
+  },
+  {
+    "Title": "Jax Briggs/Klassic",
+    "Rarity": "Diamond",
+    "Type": "Spec Ops",
+    "Stats": "Attack: 1250\nHealth: 1550\nToughness: 1300\nRecovery: 1000\nPower Gen: 130%",
+    "URL": "https://static.wikia.nocookie.net/mortalkombatx-mobile/images/3/3c/Klassic_Jax_Briggs.png/revision/latest/scale-to-width-down/120?cb=20180915164552"
+  },
+  {
+    "Title": "Jax Briggs/Prime",
+    "Rarity": "Silver",
+    "Type": "Spec Ops",
+    "Stats": "Attack: 500\nHealth: 520\nToughness: 800\nRecovery: 600\nPower Gen: 100%",
+    "URL": ""
+  },
+  {
+    "Title": "Johnny Cage",
+    "Rarity": "",
+    "Type": "",
+    "Stats": "",
+    "URL": ""
+  },
+  {
+    "Title": "Johnny Cage/A-List",
+    "Rarity": "Gold",
+    "Type": "Spec Ops",
+    "Stats": "Attack: 830\nHealth: 890\nToughness: 810\nRecovery: 780\nPower Gen: 100%",
+    "URL": ""
+  },
+  {
+    "Title": "Johnny Cage/Kombat Cup",
+    "Rarity": "Gold",
+    "Type": "Spec Ops",
+    "Stats": "Attack: 1225\nHealth: 1100\nToughness: 1200\nRecovery: 1050\nPower Gen: 110%",
+    "URL": ""
+  },
+  {
+    "Title": "Johnny Cage/Ninja Mime",
+    "Rarity": "Bronze",
+    "Type": "Martial Artist",
+    "Stats": "Attack: 350\nHealth: 250\nToughness: 320\nRecovery: 280\nPower Gen: 90%",
+    "URL": ""
+  },
+  {
+    "Title": "Johnny Cage/Standard",
+    "Rarity": "Silver",
+    "Type": "Spec Ops",
+    "Stats": "Attack: 390\nHealth: 420\nToughness: 360\nRecovery: 330\nPower Gen: 100%",
+    "URL": ""
+  },
+  {
+    "Title": "Johnny Cage/Strike Force",
+    "Rarity": "Diamond",
+    "Type": "Spec Ops",
+    "Stats": "Attack: 1230\nHealth: 1230\nToughness: 1320\nRecovery: 1320\nPower Gen: 100%",
+    "URL": ""
+  },
+  {
+    "Title": "Johnny Cage/Stunt Double",
+    "Rarity": "Gold",
+    "Type": "Spec Ops",
+    "Stats": "Attack: 730\nHealth: 710\nToughness: 680\nRecovery: 660\nPower Gen: 100%",
+    "URL": ""
+  },
+  {
+    "Title": "Kabal",
+    "Rarity": "",
+    "Type": "",
+    "Stats": "",
+    "URL": ""
+  },
+  {
+    "Title": "Kabal/Black Dragon",
+    "Rarity": "Diamond",
+    "Type": "Outworld",
+    "Stats": "Attack: 1460\nHealth: 1500\nToughness: 1500\nRecovery: 1450\nPower Gen: 130%",
+    "URL": "https://static.wikia.nocookie.net/mortalkombatx-mobile/images/4/44/Kabalkard.png/revision/latest/scale-to-width-down/112?cb=20191109224745"
+  },
+  {
+    "Title": "Kabal/MK11",
+    "Rarity": "Diamond",
+    "Type": "Netherrealm",
+    "Stats": "Attack: 1300\nHealth: 1150\nToughness: 1000\nRecovery: 1000\nPower Gen: 100%",
+    "URL": "https://static.wikia.nocookie.net/mortalkombatx-mobile/images/6/6a/Kabal_%28MK11%29.PNG/revision/latest/scale-to-width-down/120?cb=20200802103901"
+  },
+  {
+    "Title": "Kano",
+    "Rarity": "",
+    "Type": "",
+    "Stats": "",
+    "URL": ""
+  },
+  {
+    "Title": "Kano/Black Dragon",
+    "Rarity": "Diamond",
+    "Type": "Outworld",
+    "Stats": "Attack: 1250\nHealth: 1090\nToughness: 1500\nRecovery: 1350\nPower Gen: 110%",
+    "URL": ""
+  },
+  {
+    "Title": "Kano/Commando",
+    "Rarity": "Gold",
+    "Type": "Outworld",
+    "Stats": "Attack: 830\nHealth: 730\nToughness: 840\nRecovery: 700\nPower Gen: 100%",
+    "URL": ""
+  },
+  {
+    "Title": "Kano/Klassic",
+    "Rarity": "Gold",
+    "Type": "Outworld",
+    "Stats": "Attack: 950\nHealth: 880\nToughness: 880\nRecovery: 950\nPower Gen: 100%",
+    "URL": "https://static.wikia.nocookie.net/mortalkombatx-mobile/images/7/71/Klassic_Kano_%282.0%29.jpg/revision/latest/scale-to-width-down/119?cb=20200625155544"
+  },
+  {
+    "Title": "Kano/Prime",
+    "Rarity": "Silver",
+    "Type": "Outworld",
+    "Stats": "Attack: 400\nHealth: 380\nToughness: 420\nRecovery: 430\nPower Gen: 100%",
+    "URL": ""
+  },
+  {
+    "Title": "Kenshi",
+    "Rarity": "",
+    "Type": "",
+    "Stats": "",
+    "URL": ""
+  },
+  {
+    "Title": "Kenshi/Balanced",
+    "Rarity": "Gold",
+    "Type": "Spec Ops",
+    "Stats": "Attack: 910\nHealth: 930\nToughness: 950\nRecovery: 1040\nPower Gen: 100%",
+    "URL": "https://static.wikia.nocookie.net/mortalkombatx-mobile/images/f/f4/Kenshi-Balanced.png/revision/latest/scale-to-width-down/120?cb=20170101141651"
+  },
+  {
+    "Title": "Kenshi/Elder God",
+    "Rarity": "Gold",
+    "Type": "Martial Artist",
+    "Stats": "Attack: 1150\nHealth: 1175\nToughness: 1200\nRecovery: 1050\nPower Gen: 110%",
+    "URL": ""
+  },
+  {
+    "Title": "Kenshi/Possessed",
+    "Rarity": "Gold",
+    "Type": "Martial Artist",
+    "Stats": "Attack: 910\nHealth: 930\nToughness: 950\nRecovery: 1040\nPower Gen: 100%",
+    "URL": "https://static.wikia.nocookie.net/mortalkombatx-mobile/images/f/f6/Kenshi_%28P%29.PNG/revision/latest/scale-to-width-down/120?cb=20200814163202"
+  },
+  {
+    "Title": "Kenshi/Ronin",
+    "Rarity": "Diamond",
+    "Type": "Martial Artist",
+    "Stats": "Attack: 1440\nHealth: 1090\nToughness: 1500\nRecovery: 1220\nPower Gen: 120%",
+    "URL": "https://static.wikia.nocookie.net/mortalkombatx-mobile/images/5/58/Diamond_Ronin_Kenshi.jpg/revision/latest/scale-to-width-down/120?cb=20190614072501"
+  },
+  {
+    "Title": "Kenshi/Standard",
+    "Rarity": "Silver",
+    "Type": "Martial Artist",
+    "Stats": "Attack: 590\nHealth: 510\nToughness: 520\nRecovery: 700\nPower Gen: 100%",
+    "URL": ""
+  },
+  {
+    "Title": "Kintaro",
+    "Rarity": "",
+    "Type": "",
+    "Stats": "",
+    "URL": ""
+  },
+  {
+    "Title": "Kintaro/Shokan Warrior",
+    "Rarity": "Gold",
+    "Type": "Outworld",
+    "Stats": "Attack: 1200\nHealth: 1140\nToughness: 1090\nRecovery: 1100\nPower Gen: 105%",
+    "URL": ""
+  },
+  {
+    "Title": "Kitana",
+    "Rarity": "",
+    "Type": "",
+    "Stats": "",
+    "URL": "https://static.wikia.nocookie.net/mortalkombatx-mobile/images/c/c4/Diamond_Day_of_the_Dead_Kitana.jpg/revision/latest/scale-to-width-down/120?cb=20190614072458"
+  },
+  {
+    "Title": "Kitana/Assassin",
+    "Rarity": "Diamond",
+    "Type": "Outworld",
+    "Stats": "Attack: 1570\nHealth: 1190\nToughness: 1070\nRecovery: 1380\nPower Gen: 120%",
+    "URL": "https://static.wikia.nocookie.net/mortalkombatx-mobile/images/b/be/Diamond_Assassin_Kitana.jpg/revision/latest/scale-to-width-down/120?cb=20190614073053"
+  },
+  {
+    "Title": "Kitana/Circle of Shadow",
+    "Rarity": "Diamond",
+    "Type": "Netherrealm",
+    "Stats": "Attack: 1320\nHealth: 1070\nToughness: 1440\nRecovery: 1630\nPower Gen: 100%",
+    "URL": "https://static.wikia.nocookie.net/mortalkombatx-mobile/images/c/cf/Kitana_%28CoS%29.PNG/revision/latest/scale-to-width-down/120?cb=20200430052521"
+  },
+  {
+    "Title": "Kitana/Day of the Dead",
+    "Rarity": "Diamond",
+    "Type": "Outworld",
+    "Stats": "Attack: 1250\nHealth: 1190\nToughness: 1440\nRecovery: 1630\nPower Gen: 100%",
+    "URL": "https://static.wikia.nocookie.net/mortalkombatx-mobile/images/c/c4/Diamond_Day_of_the_Dead_Kitana.jpg/revision/latest/scale-to-width-down/120?cb=20190614072458"
+  },
+  {
+    "Title": "Kitana/Klassic",
+    "Rarity": "Silver",
+    "Type": "Outworld",
+    "Stats": "Attack: 500\nHealth: 420\nToughness: 420\nRecovery: 410\nPower Gen: 100%",
+    "URL": ""
+  },
+  {
+    "Title": "Kitana/Mournful",
+    "Rarity": "Gold",
+    "Type": "Outworld",
+    "Stats": "Attack: 1175\nHealth: 1025\nToughness: 975\nRecovery: 1125\nPower Gen: 100%",
+    "URL": "https://static.wikia.nocookie.net/mortalkombatx-mobile/images/0/06/Mournful_Kitana.png/revision/latest/scale-to-width-down/120?cb=20200423124816"
+  },
+  {
+    "Title": "Kitana/Ronin",
+    "Rarity": "Diamond",
+    "Type": "Outworld",
+    "Stats": "Attack: 1380\nHealth: 1500\nToughness: 1630\nRecovery: 1440\nPower Gen: 110%",
+    "URL": "https://static.wikia.nocookie.net/mortalkombatx-mobile/images/8/88/Diamond_Ronin_Kitana.jpg/revision/latest/scale-to-width-down/120?cb=20190614072501"
+  },
+  {
+    "Title": "Kotal Kahn",
+    "Rarity": "",
+    "Type": "",
+    "Stats": "",
+    "URL": ""
+  },
+  {
+    "Title": "Kotal Kahn/Blood God",
+    "Rarity": "Gold",
+    "Type": "Outworld",
+    "Stats": "Attack: 810\nHealth: 820\nToughness: 790\nRecovery: 780\nPower Gen: 100%",
+    "URL": "https://static.wikia.nocookie.net/mortalkombatx-mobile/images/4/49/Blood_God.png/revision/latest/scale-to-width-down/120?cb=20161205100419"
+  },
+  {
+    "Title": "Kotal Kahn/Dark Lord",
+    "Rarity": "Gold",
+    "Type": "Outworld",
+    "Stats": "Attack: 980\nHealth: 980\nToughness: 1050\nRecovery: 1100\nPower Gen: 100%",
+    "URL": "https://static.wikia.nocookie.net/mortalkombatx-mobile/images/4/46/Kotal_Kahn_Dark_Lord.jpg/revision/latest/scale-to-width-down/120?cb=20200425121450"
+  },
+  {
+    "Title": "Kotal Kahn/Prime",
+    "Rarity": "Silver",
+    "Type": "Outworld",
+    "Stats": "Attack: 470\nHealth: 460\nToughness: 410\nRecovery: 400\nPower Gen: 100%",
+    "URL": ""
+  },
+  {
+    "Title": "Kotal Kahn/Sun God",
+    "Rarity": "Gold",
+    "Type": "Outworld",
+    "Stats": "Attack: 930\nHealth: 950\nToughness: 890\nRecovery: 780\nPower Gen: 100%",
+    "URL": "https://static.wikia.nocookie.net/mortalkombatx-mobile/images/1/16/Kotal_Kahn-Sun_God.png/revision/latest/scale-to-width-down/120?cb=20161230144701"
+  },
+  {
+    "Title": "Kung Jin",
+    "Rarity": "",
+    "Type": "",
+    "Stats": "",
+    "URL": ""
+  },
+  {
+    "Title": "Kung Jin/Bojutsu",
+    "Rarity": "Gold",
+    "Type": "Martial Artist",
+    "Stats": "Attack: 860\nHealth: 880\nToughness: 930\nRecovery: 960\nPower Gen: 100%",
+    "URL": "https://static.wikia.nocookie.net/mortalkombatx-mobile/images/4/4d/Kung_Jin-Bojutsu.png/revision/latest/scale-to-width-down/120?cb=20161230145928"
+  },
+  {
+    "Title": "Kung Jin/Marksman",
+    "Rarity": "Gold",
+    "Type": "Martial Artist",
+    "Stats": "Attack: 850\nHealth: 900\nToughness: 1200\nRecovery: 1200\nPower Gen: 100%",
+    "URL": "https://static.wikia.nocookie.net/mortalkombatx-mobile/images/b/bf/Marksman_Kung_Jin_%282.0%29.jpg/revision/latest/scale-to-width-down/120?cb=20190411160037"
+  },
+  {
+    "Title": "Kung Jin/Prime",
+    "Rarity": "Silver",
+    "Type": "Martial Artist",
+    "Stats": "Attack: 410\nHealth: 360\nToughness: 330\nRecovery: 450\nPower Gen: 100%",
+    "URL": ""
+  },
+  {
+    "Title": "Kung Jin/Shaolin",
+    "Rarity": "Gold",
+    "Type": "Martial Artist",
+    "Stats": "Attack: 730\nHealth: 740\nToughness: 790\nRecovery: 830\nPower Gen: 100%",
+    "URL": "https://static.wikia.nocookie.net/mortalkombatx-mobile/images/1/1d/Shaolin.png/revision/latest/scale-to-width-down/120?cb=20161119075948"
+  },
+  {
+    "Title": "Kung Lao",
+    "Rarity": "",
+    "Type": "",
+    "Stats": "",
+    "URL": ""
+  },
+  {
+    "Title": "Kung Lao/Circle of Shadow",
+    "Rarity": "Diamond",
+    "Type": "Netherrealm",
+    "Stats": "Attack: 1130\nHealth: 1230\nToughness: 1380\nRecovery: 1380\nPower Gen: 100%",
+    "URL": "https://static.wikia.nocookie.net/mortalkombatx-mobile/images/d/dd/Kung_%28CoS%29.jpg/revision/latest/scale-to-width-down/120?cb=20200811133859"
+  },
+  {
+    "Title": "Kung Lao/Hat Trick",
+    "Rarity": "",
+    "Type": "",
+    "Stats": "Attack: 870\nHealth: 930\nToughness: 890\nRecovery: 970\nPower Gen: 100%",
+    "URL": "https://static.wikia.nocookie.net/mortalkombatx-mobile/images/2/20/Kung_Lao-Hat_Trick.png/revision/latest/scale-to-width-down/120?cb=20170101141045"
+  },
+  {
+    "Title": "Kung Lao/Shaolin Fist",
+    "Rarity": "Gold",
+    "Type": "Martial Artist",
+    "Stats": "Attack: 1150\nHealth: 1050\nToughness: 1000\nRecovery: 1000\nPower Gen: 110%",
+    "URL": "https://static.wikia.nocookie.net/mortalkombatx-mobile/images/f/f5/Shaolin_Fist_Kung_Lao_%282.0%29.png/revision/latest/scale-to-width-down/119?cb=20191014062443"
+  },
+  {
+    "Title": "Kung Lao/Shaolin Master",
+    "Rarity": "Gold",
+    "Type": "Martial Artist",
+    "Stats": "Attack: 1050\nHealth: 1060\nToughness: 960\nRecovery: 1100\nPower Gen: 100%",
+    "URL": "https://static.wikia.nocookie.net/mortalkombatx-mobile/images/e/ee/Shaolin_Master_Kung_Lao.jpg/revision/latest/scale-to-width-down/120?cb=20170616131831"
+  },
+  {
+    "Title": "Leatherface/Nightmare",
+    "Rarity": "Diamond",
+    "Type": "Netherrealm",
+    "Stats": "Attack: 1500\nHealth: 1380\nToughness: 1380\nRecovery: 1320\nPower Gen: 110%",
+    "URL": "https://static.wikia.nocookie.net/mortalkombatx-mobile/images/7/7c/Diamond_Pretty_Lady_Leatherface.jpg/revision/latest/scale-to-width-down/120?cb=20201101130612"
+  },
+  {
+    "Title": "Lin Kuei",
+    "Rarity": "Bronze",
+    "Type": "Martial Artist",
+    "Stats": "Attack: 180\nHealth: 220\nToughness: 200\nRecovery: 200\nPower Gen: 90%",
+    "URL": "https://static.wikia.nocookie.net/mortalkombatx-mobile/images/6/6f/Lin_Kuei_%282.0%29.png/revision/latest/scale-to-width-down/120?cb=20190813143240"
+  },
+  {
+    "Title": "Liu Kang",
+    "Rarity": "",
+    "Type": "",
+    "Stats": "",
+    "URL": ""
+  },
+  {
+    "Title": "Liu Kang/Circle of Shadow",
+    "Rarity": "Diamond",
+    "Type": "Netherrealm",
+    "Stats": "Attack: 1440\nHealth: 1340\nToughness: 1380\nRecovery: 1280\nPower Gen: 100%",
+    "URL": "https://static.wikia.nocookie.net/mortalkombatx-mobile/images/c/c6/Liu_Kang_%28CoS%29.PNG/revision/latest/scale-to-width-down/120?cb=20200804140038"
+  },
+  {
+    "Title": "Liu Kang/Flaming Fists",
+    "Rarity": "Gold",
+    "Type": "Martial Artist",
+    "Stats": "Attack: 990\nHealth: 900\nToughness: 980\nRecovery: 1050\nPower Gen: 100%",
+    "URL": "https://static.wikia.nocookie.net/mortalkombatx-mobile/images/6/66/Liu_%28FF%29.PNG/revision/latest/scale-to-width-down/120?cb=20200814163704"
+  },
+  {
+    "Title": "Liu Kang/Klassic",
+    "Rarity": "Diamond",
+    "Type": "Martial Artist",
+    "Stats": "Attack: 1400\nHealth: 1350\nToughness: 1200\nRecovery: 1050\nPower Gen: 130%",
+    "URL": "https://static.wikia.nocookie.net/mortalkombatx-mobile/images/d/dd/Klassic_Liu_Kang.jpg/revision/latest/scale-to-width-down/116?cb=20170617052238"
+  },
+  {
+    "Title": "Martial Artist Characters",
+    "Rarity": "",
+    "Type": "",
+    "Stats": "",
+    "URL": ""
+  },
+  {
+    "Title": "Mileena",
+    "Rarity": "",
+    "Type": "",
+    "Stats": "",
+    "URL": ""
+  },
+  {
+    "Title": "Mileena/Klassic",
+    "Rarity": "Gold",
+    "Type": "Outworld",
+    "Stats": "Attack: 1300\nHealth: 1350\nToughness: 1200\nRecovery: 1175\nPower Gen: 100%",
+    "URL": "https://static.wikia.nocookie.net/mortalkombatx-mobile/images/1/1a/Klassic_Mileena.png/revision/latest/scale-to-width-down/118?cb=20180403121142"
+  },
+  {
+    "Title": "Mileena/Piercing",
+    "Rarity": "Gold",
+    "Type": "Outworld",
+    "Stats": "Attack: 1250\nHealth: 950\nToughness: 1090\nRecovery: 850\nPower Gen: 100%",
+    "URL": "https://static.wikia.nocookie.net/mortalkombatx-mobile/images/3/35/Piercing_Mileena_%282.0%29.png/revision/latest/scale-to-width-down/120?cb=20200114031303"
+  },
+  {
+    "Title": "Mileena/Ravenous",
+    "Rarity": "Diamond",
+    "Type": "Outworld",
+    "Stats": "Attack: 1625\nHealth: 1235\nToughness: 1417\nRecovery: 1105\nPower Gen: 130%",
+    "URL": "https://static.wikia.nocookie.net/mortalkombatx-mobile/images/9/9a/Ravenous_Mileena.jpg/revision/latest/scale-to-width-down/120?cb=20170616135113"
+  },
+  {
+    "Title": "Mileena/Vampiress",
+    "Rarity": "Gold",
+    "Type": "Netherrealm",
+    "Stats": "Attack: 1150\nHealth: 1200\nToughness: 1050\nRecovery: 1100\nPower Gen: 110%",
+    "URL": "https://static.wikia.nocookie.net/mortalkombatx-mobile/images/8/86/Vampiress_Mileena_%282.0%29.png/revision/latest/scale-to-width-down/120?cb=20200114031304"
+  },
+  {
+    "Title": "Monk",
+    "Rarity": "Bronze",
+    "Type": "Martial Artist",
+    "Stats": "Attack: 230\nHealth: 210\nToughness: 200\nRecovery: 200\nPower Gen: 90%",
+    "URL": "https://static.wikia.nocookie.net/mortalkombatx-mobile/images/5/57/Monk_%282.0%29.png/revision/latest/scale-to-width-down/113?cb=20190417132739"
+  },
+  {
+    "Title": "Netherrealm Characters",
+    "Rarity": "",
+    "Type": "",
+    "Stats": "",
+    "URL": ""
+  },
+  {
+    "Title": "Nomad Characters",
+    "Rarity": "",
+    "Type": "",
+    "Stats": "",
+    "URL": ""
+  },
+  {
+    "Title": "Noob Saibot",
+    "Rarity": "",
+    "Type": "",
+    "Stats": "",
+    "URL": ""
+  },
+  {
+    "Title": "Noob Saibot/MK11",
+    "Rarity": "Diamond",
+    "Type": "Netherrealm",
+    "Stats": "Attack: 1600\nHealth: 1180\nToughness: 1450\nRecovery: 1400\nPower Gen: 130%",
+    "URL": "https://static.wikia.nocookie.net/mortalkombatx-mobile/images/c/c8/MK11_Noob.JPG/revision/latest/scale-to-width-down/119?cb=20201023135905"
+  },
+  {
+    "Title": "Oni",
+    "Rarity": "Bronze",
+    "Type": "Netherrealm",
+    "Stats": "Attack: 250\nHealth: 260\nToughness: 200\nRecovery: 200\nPower Gen: 90%",
+    "URL": "https://static.wikia.nocookie.net/mortalkombatx-mobile/images/5/52/Oni_%282.0%29.png/revision/latest/scale-to-width-down/120?cb=20190709134147"
+  },
+  {
+    "Title": "Osh-Tekk",
+    "Rarity": "Bronze",
+    "Type": "Outworld",
+    "Stats": "Attack: 220\nHealth: 220\nToughness: 210\nRecovery: 230\nPower Gen: 90%",
+    "URL": "https://static.wikia.nocookie.net/mortalkombatx-mobile/images/d/d6/Osh-Tekk_%282.0%29.png/revision/latest/scale-to-width-down/118?cb=20190410125854"
+  },
+  {
+    "Title": "Quan Chi",
+    "Rarity": "",
+    "Type": "",
+    "Stats": "",
+    "URL": "https://static.wikia.nocookie.net/mortalkombatx-mobile/images/9/93/Quan_%28CoS%29.png/revision/latest/scale-to-width-down/120?cb=20200625171033"
+  },
+  {
+    "Title": "Quan Chi/Circle of Shadow",
+    "Rarity": "Diamond",
+    "Type": "Netherrealm",
+    "Stats": "Attack: 1440\nHealth: 1440\nToughness: 1250\nRecovery: 1320\nPower Gen: 120%",
+    "URL": "https://static.wikia.nocookie.net/mortalkombatx-mobile/images/9/93/Quan_%28CoS%29.png/revision/latest/scale-to-width-down/120?cb=20200625171033"
+  },
+  {
+    "Title": "Quan Chi/Warlock",
+    "Rarity": "Gold",
+    "Type": "Netherrealm",
+    "Stats": "Attack: 950\nHealth: 1200\nToughness: 1100\nRecovery: 1050\nPower Gen: 100%",
+    "URL": "https://static.wikia.nocookie.net/mortalkombatx-mobile/images/e/e0/Warlock_Quan_Chi.png/revision/latest/scale-to-width-down/120?cb=20170122213028"
+  },
+  {
+    "Title": "Raiden",
+    "Rarity": "",
+    "Type": "",
+    "Stats": "",
+    "URL": ""
+  },
+  {
+    "Title": "Raiden/Dark",
+    "Rarity": "Gold",
+    "Type": "Elder God",
+    "Stats": "Attack: 960\nHealth: 1050\nToughness: 900\nRecovery: 1000\nPower Gen: 100%",
+    "URL": "https://static.wikia.nocookie.net/mortalkombatx-mobile/images/a/ae/Dark_Raiden_%282.0%29.png/revision/latest/scale-to-width-down/120?cb=20200504135706"
+  },
+  {
+    "Title": "Raiden/Injustice 2",
+    "Rarity": "Diamond",
+    "Type": "Elder God",
+    "Stats": "Attack: 1400\nHealth: 1350\nToughness: 1200\nRecovery: 1050\nPower Gen: 130%",
+    "URL": "https://static.wikia.nocookie.net/mortalkombatx-mobile/images/d/de/Injustice_2_Raiden.png/revision/latest/scale-to-width-down/108?cb=20180403121142"
+  },
+  {
+    "Title": "Raiden/Klassic",
+    "Rarity": "Diamond",
+    "Type": "Elder God",
+    "Stats": "Attack: 1248\nHealth: 1365\nToughness: 1417\nRecovery: 1105\nPower Gen: 130%",
+    "URL": "https://static.wikia.nocookie.net/mortalkombatx-mobile/images/4/47/Raiden_%28KL%29.png/revision/latest/scale-to-width-down/120?cb=20200723091707"
+  },
+  {
+    "Title": "Raiden/MK11",
+    "Rarity": "Diamond",
+    "Type": "Elder God",
+    "Stats": "Attack: 1200\nHealth: 1300\nToughness: 1000\nRecovery: 1000\nPower Gen: 100%",
+    "URL": "https://static.wikia.nocookie.net/mortalkombatx-mobile/images/e/ed/Raiden_%28MK11%29.PNG/revision/latest/scale-to-width-down/120?cb=20200723090700"
+  },
+  {
+    "Title": "Raiden/Thunder God",
+    "Rarity": "Gold",
+    "Type": "Elder God",
+    "Stats": "Attack: 900\nHealth: 900\nToughness: 1100\nRecovery: 900\nPower Gen: 100%",
+    "URL": "https://static.wikia.nocookie.net/mortalkombatx-mobile/images/1/17/Thunder_God_2./revision/latest/scale-to-width-down/120?cb=20200910165937"
+  },
+  {
+    "Title": "Reptile",
+    "Rarity": "",
+    "Type": "",
+    "Stats": "",
+    "URL": ""
+  },
+  {
+    "Title": "Reptile/Klassic",
+    "Rarity": "Diamond",
+    "Type": "Outworld",
+    "Stats": "Attack: 1350\nHealth: 1450\nToughness: 1200\nRecovery: 1100\nPower Gen: 130%",
+    "URL": "https://static.wikia.nocookie.net/mortalkombatx-mobile/images/d/dd/Klassic_Reptile.png/revision/latest/scale-to-width-down/120?cb=20180530110626"
+  },
+  {
+    "Title": "Reptile/Kraken",
+    "Rarity": "Gold",
+    "Type": "Outworld",
+    "Stats": "Attack: 850\nHealth: 1100\nToughness: 1100\nRecovery: 1020\nPower Gen: 100%",
+    "URL": "https://static.wikia.nocookie.net/mortalkombatx-mobile/images/6/6d/Kraken_Reptile.jpg/revision/latest/scale-to-width-down/120?cb=20200320035550"
+  },
+  {
+    "Title": "Reptile/Nimble",
+    "Rarity": "Gold",
+    "Type": "Outworld",
+    "Stats": "Attack: 780\nHealth: 760\nToughness: 890\nRecovery: 1000\nPower Gen: 100%",
+    "URL": "https://static.wikia.nocookie.net/mortalkombatx-mobile/images/c/cb/Nimble.png/revision/latest/scale-to-width-down/115?cb=20161205101325"
+  },
+  {
+    "Title": "Reptile/Noxious",
+    "Rarity": "Gold",
+    "Type": "Outworld",
+    "Stats": "Attack: 670\nHealth: 610\nToughness: 820\nRecovery: 890\nPower Gen: 100%",
+    "URL": "https://static.wikia.nocookie.net/mortalkombatx-mobile/images/7/7f/Noxious.png/revision/latest/scale-to-width-down/120?cb=20161119075438"
+  },
+  {
+    "Title": "Reptile/Prime",
+    "Rarity": "Silver",
+    "Type": "Outworld",
+    "Stats": "Attack: 320\nHealth: 320\nToughness: 410\nRecovery: 450\nPower Gen: 100%",
+    "URL": ""
+  },
+  {
+    "Title": "Saurian",
+    "Rarity": "Bronze",
+    "Type": "Outworld",
+    "Stats": "Attack: 210\nHealth: 190\nToughness: 200\nRecovery: 200\nPower Gen: 90%",
+    "URL": "https://static.wikia.nocookie.net/mortalkombatx-mobile/images/b/b0/Saurian_%282.0%29.png/revision/latest/scale-to-width-down/120?cb=20190709134102"
+  },
+  {
+    "Title": "Scorpion",
+    "Rarity": "",
+    "Type": "",
+    "Stats": "",
+    "URL": ""
+  },
+  {
+    "Title": "Scorpion/Hanzo Hasashi",
+    "Rarity": "Gold",
+    "Type": "Martial Artist",
+    "Stats": "Attack: 1225\nHealth: 1175\nToughness: 1000\nRecovery: 1000\nPower Gen: 100%",
+    "URL": ""
+  },
+  {
+    "Title": "Scorpion/Hellspawn",
+    "Rarity": "Diamond",
+    "Type": "Martial Artist",
+    "Stats": "Attack: 1300\nHealth: 1287\nToughness: 1287\nRecovery: 1287\nPower Gen: 130%",
+    "URL": "https://static.wikia.nocookie.net/mortalkombatx-mobile/images/2/20/Hellspawn_Scorpion.jpg/revision/latest/scale-to-width-down/117?cb=20170617050112"
+  },
+  {
+    "Title": "Scorpion/Inferno",
+    "Rarity": "Gold",
+    "Type": "Martial Artist",
+    "Stats": "Attack: 970\nHealth: 940\nToughness: 1090\nRecovery: 950\nPower Gen: 100%",
+    "URL": "https://static.wikia.nocookie.net/mortalkombatx-mobile/images/3/38/Scorpion_%28I%29.PNG/revision/latest/scale-to-width-down/113?cb=20200719125443"
+  },
+  {
+    "Title": "Scorpion/Injustice",
+    "Rarity": "Gold",
+    "Type": "Martial Artist",
+    "Stats": "Attack: 840\nHealth: 810\nToughness: 750\nRecovery: 760\nPower Gen: 100%",
+    "URL": "https://static.wikia.nocookie.net/mortalkombatx-mobile/images/e/e5/Scorpion_%28Inj%29.PNG/revision/latest/scale-to-width-down/120?cb=20200611074903"
+  },
+  {
+    "Title": "Scorpion/Klassic",
+    "Rarity": "Gold",
+    "Type": "Martial Artist",
+    "Stats": "Attack: 1050\nHealth: 920\nToughness: 1000\nRecovery: 900\nPower Gen: 100%",
+    "URL": "https://static.wikia.nocookie.net/mortalkombatx-mobile/images/8/84/Klassic-0.png/revision/latest/scale-to-width-down/117?cb=20200820170133"
+  },
+  {
+    "Title": "Scorpion/Kold War",
+    "Rarity": "Diamond",
+    "Type": "Netherrealm",
+    "Stats": "Attack: 1250\nHealth: 1240\nToughness: 1240\nRecovery: 1240\nPower Gen: 100%",
+    "URL": "https://static.wikia.nocookie.net/mortalkombatx-mobile/images/7/73/Diamond_Kold_War_Scorpion.jpg/revision/latest/scale-to-width-down/120?cb=20190614073051"
+  },
+  {
+    "Title": "Scorpion/MK11",
+    "Rarity": "Diamond",
+    "Type": "Martial Artist",
+    "Stats": "Attack: 1550\nHealth: 1450\nToughness: 1475\nRecovery: 1450\nPower Gen: 130%",
+    "URL": "https://static.wikia.nocookie.net/mortalkombatx-mobile/images/4/4b/MK11_Scorpion.jpg/revision/latest/scale-to-width-down/120?cb=20190310215142"
+  },
+  {
+    "Title": "Scorpion/Ninjutsu",
+    "Rarity": "Gold",
+    "Type": "Martial Artist",
+    "Stats": "Attack: 850\nHealth: 810\nToughness: 750\nRecovery: 750\nPower Gen: 100%",
+    "URL": "https://static.wikia.nocookie.net/mortalkombatx-mobile/images/7/76/Scorpion_%28N%29.JPG/revision/latest/scale-to-width-down/118?cb=20200820090229"
+  },
+  {
+    "Title": "Scorpion/Standard",
+    "Rarity": "Silver",
+    "Type": "Martial Artist",
+    "Stats": "Attack: 470\nHealth: 430\nToughness: 470\nRecovery: 410\nPower Gen: 100%",
+    "URL": ""
+  },
+  {
+    "Title": "Scorpion/Strike Force",
+    "Rarity": "Diamond",
+    "Type": "Martial Artist",
+    "Stats": "Attack: 1500\nHealth: 1410\nToughness: 1320\nRecovery: 1320\nPower Gen: 100%",
+    "URL": "https://static.wikia.nocookie.net/mortalkombatx-mobile/images/f/f2/Scorpion_%28SF%29.PNG/revision/latest/scale-to-width-down/120?cb=20200802104312"
+  },
+  {
+    "Title": "Sergeant",
+    "Rarity": "Bronze",
+    "Type": "Spec Ops",
+    "Stats": "Attack: 210\nHealth: 230\nToughness: 230\nRecovery: 210\nPower Gen: 90%",
+    "URL": "https://static.wikia.nocookie.net/mortalkombatx-mobile/images/e/e6/Sergeant.png/revision/latest/scale-to-width-down/116?cb=20161015062233"
+  },
+  {
+    "Title": "Shao Kahn/Konqueror",
+    "Rarity": "Diamond",
+    "Type": "Outworld",
+    "Stats": "Attack: 1500\nHealth: 1500\nToughness: 1400\nRecovery: 1300\nPower Gen: 130%",
+    "URL": "https://static.wikia.nocookie.net/mortalkombatx-mobile/images/d/dc/Konqueror_Shao_Kahn.png/revision/latest/scale-to-width-down/119?cb=20180519164014"
+  },
+  {
+    "Title": "Shinnok",
+    "Rarity": "",
+    "Type": "",
+    "Stats": "",
+    "URL": ""
+  },
+  {
+    "Title": "Shinnok/Bone Shaper",
+    "Rarity": "Gold",
+    "Type": "Netherrealm",
+    "Stats": "Attack: 1000\nHealth: 900\nToughness: 1200\nRecovery: 1200\nPower Gen: 100%",
+    "URL": "https://static.wikia.nocookie.net/mortalkombatx-mobile/images/f/fa/Bone_Shaper_Shinnok_%282.0%29.png/revision/latest/scale-to-width-down/118?cb=20201010160718"
+  },
+  {
+    "Title": "Shinnok/Vengeful",
+    "Rarity": "Gold",
+    "Type": "Netherrealm",
+    "Stats": "Attack: 1275\nHealth: 1100\nToughness: 1000\nRecovery: 1100\nPower Gen: 100%",
+    "URL": "https://static.wikia.nocookie.net/mortalkombatx-mobile/images/c/c3/Vengeful_Shinnok.png/revision/latest/scale-to-width-down/114?cb=20200406215234"
+  },
+  {
+    "Title": "Shirai Ryu",
+    "Rarity": "Bronze",
+    "Type": "Martial Artist",
+    "Stats": "Attack: 220\nHealth: 180\nToughness: 200\nRecovery: 200\nPower Gen: 90%",
+    "URL": "https://static.wikia.nocookie.net/mortalkombatx-mobile/images/6/6a/Shirai_Ryu.png/revision/latest/scale-to-width-down/116?cb=20161015063138"
+  },
+  {
+    "Title": "Silver Characters",
+    "Rarity": "",
+    "Type": "",
+    "Stats": "",
+    "URL": ""
+  },
+  {
+    "Title": "Skarlet/Assassin",
+    "Rarity": "Diamond",
+    "Type": "Outworld",
+    "Stats": "Attack: 1370\nHealth: 1410\nToughness: 1270\nRecovery: 1350\nPower Gen: 110%",
+    "URL": "https://static.wikia.nocookie.net/mortalkombatx-mobile/images/0/07/Skarlet_%28A%29.PNG/revision/latest/scale-to-width-down/120?cb=20200430055744"
+  },
+  {
+    "Title": "Skarlet/Kold War",
+    "Rarity": "Diamond",
+    "Type": "Outworld",
+    "Stats": "Attack 1400\nHealth: 1150\nToughness: 1250\nRecovery: 1250\nPower Gen: 100%",
+    "URL": "https://static.wikia.nocookie.net/mortalkombatx-mobile/images/4/47/KWSK.jpg/revision/latest/scale-to-width-down/120?cb=20201107104622"
+  },
+  {
+    "Title": "Skarlet/MK11",
+    "Rarity": "Diamond",
+    "Type": "Outworld",
+    "Stats": "Attack: 1450\nHealth: 1600\nToughness: 1400\nRecovery: 1600\nPower Gen: 130%",
+    "URL": "https://static.wikia.nocookie.net/mortalkombatx-mobile/images/8/86/Skarlet_kard.png/revision/latest/scale-to-width-down/114?cb=20191109223132"
+  },
+  {
+    "Title": "Smoke/Klassic",
+    "Rarity": "Gold",
+    "Type": "Martial Artist",
+    "Stats": "Attack: 1150\nHealth: 1250\nToughness: 1100\nRecovery: 1000\nPower Gen: 100%",
+    "URL": ""
+  },
+  {
+    "Title": "Sonya Blade",
+    "Rarity": "",
+    "Type": "",
+    "Stats": "",
+    "URL": ""
+  },
+  {
+    "Title": "Sonya Blade/Demolition",
+    "Rarity": "Gold",
+    "Type": "Spec Ops",
+    "Stats": "Attack: 830\nHealth: 740\nToughness: 830\nRecovery: 880\nPower Gen: 100%",
+    "URL": "https://static.wikia.nocookie.net/mortalkombatx-mobile/images/9/98/Demolition.png/revision/latest/scale-to-width-down/115?cb=20161205100219"
+  },
+  {
+    "Title": "Sonya Blade/Klassic",
+    "Rarity": "Gold",
+    "Type": "Spec Ops",
+    "Stats": "Attack: 1125\nHealth: 1075\nToughness: 1050\nRecovery: 1075\nPower Gen: 110%",
+    "URL": "https://static.wikia.nocookie.net/mortalkombatx-mobile/images/9/96/Klassic_Sonya_Blade.png/revision/latest/scale-to-width-down/120?cb=20200421152335"
+  },
+  {
+    "Title": "Sonya Blade/Kold War",
+    "Rarity": "Diamond",
+    "Type": "Spec Ops",
+    "Stats": "Attack: 1190\nHealth: 1380\nToughness: 1190\nRecovery: 1190\nPower Gen: 100%",
+    "URL": "https://static.wikia.nocookie.net/mortalkombatx-mobile/images/7/7c/Sonya_%28KW%29.PNG/revision/latest/scale-to-width-down/120?cb=20200502070628"
+  },
+  {
+    "Title": "Sonya Blade/Kombat Cup",
+    "Rarity": "Gold",
+    "Type": "Spec Ops",
+    "Stats": "Attack: 1150\nHealth: 1275\nToughness: 1000\nRecovery: 1100\nPower Gen: 120%",
+    "URL": "https://static.wikia.nocookie.net/mortalkombatx-mobile/images/6/6d/KC_sonyablade.png/revision/latest/scale-to-width-down/108?cb=20200223011754"
+  },
+  {
+    "Title": "Sonya Blade/Prime",
+    "Rarity": "Silver",
+    "Type": "Spec Ops",
+    "Stats": "Attack: 460\nHealth: 370\nToughness: 380\nRecovery: 440\nPower Gen: 100%",
+    "URL": ""
+  },
+  {
+    "Title": "Sonya Blade/Tactical",
+    "Rarity": "Gold",
+    "Type": "Spec Ops",
+    "Stats": "Attack: 930\nHealth: 840\nToughness: 890\nRecovery: 930\nPower Gen: 100%",
+    "URL": "https://static.wikia.nocookie.net/mortalkombatx-mobile/images/0/00/Sonya_Blade-Tactical.png/revision/latest/scale-to-width-down/115?cb=20161230145747"
+  },
+  {
+    "Title": "Spec Ops Characters",
+    "Rarity": "",
+    "Type": "",
+    "Stats": "",
+    "URL": ""
+  },
+  {
+    "Title": "Sub-Zero",
+    "Rarity": "",
+    "Type": "",
+    "Stats": "",
+    "URL": ""
+  },
+  {
+    "Title": "Sub-Zero/Circle of Shadow",
+    "Rarity": "Diamond",
+    "Type": "Netherrealm",
+    "Stats": "Attack: 1190\nHealth: 1250\nToughness: 1190\nRecovery: 1000\nPower Gen: 100%",
+    "URL": ""
+  },
+  {
+    "Title": "Sub-Zero/Cryomancer",
+    "Rarity": "Gold",
+    "Type": "Martial Artist",
+    "Stats": "Attack: 810\nHealth: 890\nToughness: 900\nRecovery: 800\nPower Gen: 100%",
+    "URL": "https://static.wikia.nocookie.net/mortalkombatx-mobile/images/5/5c/Cryomancer.png/revision/latest/scale-to-width-down/115?cb=20161211092430"
+  },
+  {
+    "Title": "Sub-Zero/Grandmaster",
+    "Rarity": "Gold",
+    "Type": "Martial Artist",
+    "Stats": "Attack: 900\nHealth: 1000\nToughness: 1000\nRecovery: 850\nPower Gen: 100%",
+    "URL": "https://static.wikia.nocookie.net/mortalkombatx-mobile/images/d/d9/Sub-Zero-Grandmaster.png/revision/latest/scale-to-width-down/115?cb=20170120103209"
+  },
+  {
+    "Title": "Sub-Zero/Klassic",
+    "Rarity": "Gold",
+    "Type": "Martial Artist",
+    "Stats": "Attack: 920\nHealth: 1050\nToughness: 1000\nRecovery: 900\nPower Gen: 100%",
+    "URL": ""
+  },
+  {
+    "Title": "Sub-Zero/Kold War",
+    "Rarity": "Diamond",
+    "Type": "Martial Artist",
+    "Stats": "Attack: 1250\nHealth: 1500\nToughness: 1350\nRecovery: 1380\nPower Gen: 110%",
+    "URL": "https://static.wikia.nocookie.net/mortalkombatx-mobile/images/a/a4/Diamond_Kold_War_Sub-Zero.jpg/revision/latest/scale-to-width-down/110?cb=20190614072501"
+  },
+  {
+    "Title": "Sub-Zero/MK11",
+    "Rarity": "Diamond",
+    "Type": "Martial Artist",
+    "Stats": "Attack: 1550\nHealth: 1400\nToughness: 1500\nRecovery: 1550\nPower Gen: 130%",
+    "URL": ""
+  },
+  {
+    "Title": "Sub-Zero/Prime",
+    "Rarity": "Silver",
+    "Type": "Martial Artist",
+    "Stats": "Attack: 320\nHealth: 380\nToughness: 340\nRecovery: 360\nPower Gen: 100%",
+    "URL": "https://static.wikia.nocookie.net/mortalkombatx-mobile/images/4/4d/Prime.jpg/revision/latest/scale-to-width-down/116?cb=20200507152116"
+  },
+  {
+    "Title": "Takeda",
+    "Rarity": "",
+    "Type": "",
+    "Stats": "",
+    "URL": ""
+  },
+  {
+    "Title": "Takeda/Ronin",
+    "Rarity": "Diamond",
+    "Type": "Spec Ops",
+    "Stats": "Attack: 1560\nHealth: 1250\nToughness: 1310\nRecovery: 1500\nPower Gen: 110%",
+    "URL": "https://static.wikia.nocookie.net/mortalkombatx-mobile/images/1/10/Diamond_Ronin_Takeda.jpg/revision/latest/scale-to-width-down/120?cb=20190614073052"
+  },
+  {
+    "Title": "Takeda/Shirai Ryu",
+    "Rarity": "Gold",
+    "Type": "Martial Artist",
+    "Stats": "Attack: 1150\nHealth: 1050\nToughness: 1025\nRecovery: 1100\nPower Gen: 100%",
+    "URL": "https://static.wikia.nocookie.net/mortalkombatx-mobile/images/2/28/Shirai_Ryu_Takeda.png/revision/latest/scale-to-width-down/113?cb=20200322215311"
+  },
+  {
+    "Title": "Tanya",
+    "Rarity": "",
+    "Type": "",
+    "Stats": "",
+    "URL": ""
+  },
+  {
+    "Title": "Tanya/Kobu Jutsu",
+    "Rarity": "Gold",
+    "Type": "Outworld",
+    "Stats": "Attack: 1200\nHealth: 1000\nToughness: 1000\nRecovery: 1100\nPower Gen: 100%",
+    "URL": "https://static.wikia.nocookie.net/mortalkombatx-mobile/images/6/64/Kobu_Jutsu.png/revision/latest/scale-to-width-down/115?cb=20161223141457"
+  },
+  {
+    "Title": "Tanya/Treacherous",
+    "Rarity": "Gold",
+    "Type": "Outworld",
+    "Stats": "Attack: 1100\nHealth: 1225\nToughness: 1100\nRecovery: 1050\nPower Gen: 100%",
+    "URL": "https://static.wikia.nocookie.net/mortalkombatx-mobile/images/d/d1/Tanya_%28T%29.PNG/revision/latest/scale-to-width-down/108?cb=20200719125456"
+  },
+  {
+    "Title": "Teams",
+    "Rarity": "",
+    "Type": "",
+    "Stats": "",
+    "URL": "https://static.wikia.nocookie.net/mortalkombatx-mobile/images/c/c0/Food_chain.jpg/revision/latest/scale-to-width-down/259?cb=20200801230353"
+  },
+  {
+    "Title": "Terminator",
+    "Rarity": "",
+    "Type": "",
+    "Stats": "",
+    "URL": ""
+  },
+  {
+    "Title": "Terminator/Dark Fate",
+    "Rarity": "Diamond",
+    "Type": "Spec Ops",
+    "Stats": "Attack: 1350\nHealth: 1600\nToughness: 1500\nRecovery: 1300\nPower Gen: 110%",
+    "URL": ""
+  },
+  {
+    "Title": "Terminator/Guardian",
+    "Rarity": "Diamond",
+    "Type": "Spec Ops",
+    "Stats": "Attack: 1460\nHealth: 1500\nToughness: 1350\nRecovery: 1400\nPower Gen: 110%",
+    "URL": "https://static.wikia.nocookie.net/mortalkombatx-mobile/images/6/6e/Term_%28G%29.jpg/revision/latest/scale-to-width-down/120?cb=20200905160851"
+  },
+  {
+    "Title": "Tremor",
+    "Rarity": "",
+    "Type": "",
+    "Stats": "",
+    "URL": ""
+  },
+  {
+    "Title": "Tremor/Aftershock",
+    "Rarity": "Gold",
+    "Type": "Martial Artist",
+    "Stats": "Attack: 1200\nHealth: 1150\nToughness: 1075\nRecovery: 1050\nPower Gen: 100%",
+    "URL": "https://static.wikia.nocookie.net/mortalkombatx-mobile/images/f/f7/Aftershock_Tremor_%282.0%29.png/revision/latest/scale-to-width-down/120?cb=20200504135541"
+  },
+  {
+    "Title": "Tremor/Black Dragon",
+    "Rarity": "Diamond",
+    "Type": "Martial Artist",
+    "Stats": "Attack: 1350\nHealth: 1550\nToughness: 1500\nRecovery: 1320\nPower Gen: 110%",
+    "URL": "https://static.wikia.nocookie.net/mortalkombatx-mobile/images/9/9c/Black_Dragon_Tremor.png/revision/latest/scale-to-width-down/120?cb=20200717162053"
+  },
+  {
+    "Title": "Triborg",
+    "Rarity": "",
+    "Type": "",
+    "Stats": "",
+    "URL": ""
+  },
+  {
+    "Title": "Triborg/Cyrax (LK-4D4)",
+    "Rarity": "Gold",
+    "Type": "Martial Artist",
+    "Stats": "Attack: 1225\nHealth: 975\nToughness: 1000\nRecovery: 1025\nPower Gen: 120%",
+    "URL": "https://static.wikia.nocookie.net/mortalkombatx-mobile/images/a/ae/Cyrax_%28LK-4D4%29.png/revision/latest/scale-to-width-down/119?cb=20200406212238"
+  },
+  {
+    "Title": "Triborg/Sektor (LK-9T9)",
+    "Rarity": "Gold",
+    "Type": "Martial Artist",
+    "Stats": "Attack: 1200\nHealth: 1000\nToughness: 1100\nRecovery: 1050\nPower Gen: 120%",
+    "URL": "https://static.wikia.nocookie.net/mortalkombatx-mobile/images/2/2e/Sektor_Triborg_%282.0%29.png/revision/latest/scale-to-width-down/120?cb=20191010064213"
+  },
+  {
+    "Title": "Triborg/Smoke (LK-7T2)",
+    "Rarity": "Gold",
+    "Type": "Martial Artist",
+    "Stats": "Attack: 1100\nHealth: 1100\nToughness: 1050\nRecovery: 1100\nPower Gen: 120%",
+    "URL": ""
+  },
+  {
+    "Title": "Triborg/Sub-Zero (LK-520)",
+    "Rarity": "Gold",
+    "Type": "Martial Artist",
+    "Stats": "Attack: 1150\nHealth: 1200\nToughness: 1025\nRecovery: 1050\nPower Gen: 100%",
+    "URL": ""
+  },
+  {
+    "Title": "Trooper",
+    "Rarity": "Bronze",
+    "Type": "Spec Ops",
+    "Stats": "Attack: 200\nHealth: 200\nToughness: 210\nRecovery: 190\nPower Gen: 90%",
+    "URL": "https://static.wikia.nocookie.net/mortalkombatx-mobile/images/0/00/Trooper_%282.0%29.png/revision/latest/scale-to-width-down/120?cb=20190606175847"
+  }
+]
