@@ -1,0 +1,34 @@
+{
+  "627": {
+    "name": "Nomad",
+    "img" : "Nomad"
+  },
+  "628": {
+    "name": "Elder God",
+    "img" : "Elder_God"
+  },
+  "629": {
+    "name": "Martial Artist",
+    "img" : "Martial_Artist"
+  },
+  "630": {
+    "name": "Netherrealm",
+    "img" : "Netherrealm"
+  },
+  "631": {
+    "name": "Outworld",
+    "img" : "Outworld"
+  },
+  "632": {
+    "name": "Spec Ops",
+    "img" : "Spec_Ops"
+  },
+  "173778": {
+    "name": "Netherrealm",
+    "img" : "Netherrealm"
+  },
+  "173811": {
+    "name": "Spec Ops",
+    "img" : "Spec_Ops"
+  }
+}

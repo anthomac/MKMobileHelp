@@ -1,43 +1,191 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
+
+<head>
     <meta charset="UTF-8" />
-    <meta
-      name="viewport"
-      content="width=device-width, initial-scale=1, shrink-to-fit=no"
-    />
-    <meta http-equiv="x-ua-compatible" content="ie=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
     <title>Material Design for Bootstrap</title>
     <!-- MDB icon -->
     <link rel="icon" href="img/mdb-favicon.ico" type="image/x-icon" />
     <!-- Font Awesome -->
-    <link
-      rel="stylesheet"
-      href="https://use.fontawesome.com/releases/v5.15.2/css/all.css"
-    />
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.11.2/css/all.css" />
     <!-- Google Fonts Roboto -->
-    <link
-      rel="stylesheet"
-      href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap"
-    />
-    <!-- Dark MDB theme -->
-    <link rel="stylesheet" href="css/mdb.dark.min.css" />
-    <!-- Regular MDB theme -->
-    <!-- <link rel="stylesheet" href="css/mdb.min.css" /> -->
-  </head>
-  <body>
-    <!-- Start your project here-->
-    <section>
-      <div class="text-center">
-        <h4><strong>Tonimac's Mod World</strong></h4>
-      </div>
-    </section>
-
-    <!-- End your project here-->
-
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&display=swap" />
     <!-- MDB -->
-    <script type="text/javascript" src="js/mdb.min.js"></script>
-    <!-- Custom scripts -->
-    <script type="text/javascript"></script>
-  </body>
+    <link rel="stylesheet" href="MDB5/css/mdb.dark.min.css" />
+    <!-- Custom styles -->
+    <link rel="stylesheet" href="css/global.css" />
+    <style>
+        .select-arrow:before {
+            content: "▼"
+        }
+    </style>
+</head>
+
+<body>
+    <!-- Start your project here-->
+    <!--Main Navigation-->
+
+    <!-- Navbar -->
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top">
+        <div class="container">
+            <a class="navbar-brand" href="#">
+                <img src="img/mainLogo.svg" alt="TMW" height="20" loading="lazy">
+            </a>
+            <button class="navbar-toggler" type="button" data-mdb-toggle="collapse"
+                data-mdb-target="#navbarTogglerDemo02" aria-controls="navbarTogglerDemo02" aria-expanded="false"
+                aria-label="Toggle navigation">
+                <i class="fas fa-bars"></i>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarTogglerDemo02">
+                <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+                    <li class="nav-item">
+                        <a class="nav-link active text-navbar" aria-current="page" href="index.html">HOME</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link text-navbar" href="character.html">CHARACTERS</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link disabled" href="#" tabindex="-1" aria-disabled="true">UPCOMING</a>
+                    </li>
+                </ul>
+                <ul class="navbar-nav ms-auto d-flex flex-row">
+                    <!-- Icons -->
+                    <li class="nav-item me-4 me-lg-3">
+                        <a class="nav-link text-youtube" href="" rel="nofollow" target="_blank">
+                            <i class="fab fa-youtube"></i>
+                        </a>
+                    </li>
+                    <li class="nav-item me-4 me-lg-3">
+                        <a class="nav-link text-telegram" href="" rel="nofollow" target="_blank">
+                            <i class="fab fa-telegram"></i>
+                        </a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+    <!-- Navbar -->
+    <!--Main Navigation-->
+
+    <!--Main layout-->
+    <main class="mt-5 mb-5">
+        <div class="container">
+            <!--Section: Content-->
+            <section class="text-center">
+                <h4 class="mb-5 font-monospace"><strong>MK Mobile Characters </strong> [Updated to MK 3.2.1]</h4>
+                <div class="form-outline mb-4">
+                    <input type="text" class="form-control" id="datatable-search-input">
+                    <label class="form-label" for="datatable-search-input">Search</label>
+                </div>
+                <div id="datatable" data-mdb-clickable-rows="true">
+                </div>
+            </section>
+            <!--Section: Content-->
+
+        </div>
+    </main>
+    <!--Main layout-->
+
+    <!--Footer-->
+    <footer class="text-center text-white fixed-bottom" style="background-color: #1b1b1b;">
+        <!-- Section: Social media -->
+        <!-- Facebook -->
+        <a class="btn btn-link btn-floating btn-lg text-youtube m-1" href="#!" role="button"
+            data-mdb-ripple-color="dark"><i class="fab fa-youtube"></i></a>
+
+        <!-- Twitter -->
+        <a class="btn btn-link btn-floating btn-lg text-twitter m-1" href="#!" role="button"
+            data-mdb-ripple-color="dark"><i class="fab fa-twitter"></i></a>
+
+        <!-- Google -->
+        <a class="btn btn-link btn-floating btn-lg text-telegram m-1" href="#!" role="button"
+            data-mdb-ripple-color="dark"><i class="fab fa-telegram"></i></a>
+
+        <!-- Section: Social media -->
+    </footer>
+
+    <!--Footer-->
+    <!-- End your project here-->
+</body>
+
+<!-- MDB -->
+<script type="text/javascript" src="MDB5/js/mdb5.min.js"></script>
+<!-- Custom scripts -->
+<script type="text/javascript">
+    var NameTags;
+    var TitleTags;
+    var charClass;
+
+    const asyncCols = [
+        { label: 'Name', field: 'Col10Val' },
+        { label: 'Rarity', field: 'Col14' },
+        { label: 'Type', field: 'Col25Val' },
+        { label: 'Health', field: 'Col18f' , sort: false},
+        { label: 'Attack', field: 'Col19f' , sort: false},
+        { label: 'Toughness', field: 'Col20f' , sort: false},
+        { label: 'Recovery', field: 'Col21f' , sort: false},
+    ];
+    const asyncTable = new mdb.Datatable(
+        document.getElementById('datatable'),
+        {
+            columns: asyncCols,
+        },
+        { loading: true }
+    );
+
+    const formatClass = function (types) {
+        if (types) {
+            if ((types.length == 1 && charClass[types[0]]) || (types.length == 2 && !charClass[types[1]])) {
+                return '<span style="display:none">' + charClass[types[0]].name + '</span><span class="bg-' + charClass[types[0]].img + '_25"></span>';
+            } else if (types.length == 2 && charClass[types[0]] && charClass[types[1]]) {
+                if ((charClass[types[0]].name == charClass[types[1]].name) || (charClass[types[0]].name == "Nomad")) {
+                    return '<span style="display:none">' + charClass[types[0]].name + '</span><span class="bg-' + charClass[types[0]].img + '_25"></span>';
+                } else {
+                    return '<span style="display:none">' + charClass[types[0]].name + ' ' + charClass[types[1]].name
+                        + '</span><span class="bg-' + charClass[types[0]].img + '_1"></span>&nbsp;<span class="bg-' + charClass[types[1]].img
+                        + '_2"></span>';
+                }
+            }
+        } else {
+            return "No Data";
+        }
+    }
+
+    const formatIcon = function(data, css) {
+        return '<i class="' + css + '"></i>' + data;
+    }
+
+    const loadData = async () => {
+        NameTags = await (await fetch('Data/NameTags.json')).json();
+        TitleTags = await (await fetch('Data/TitleTags.json')).json();
+        charClass = await (await fetch('Data/CharacterClass.json')).json();
+        fetch('Data/MKXPlayers.json')
+            .then((response) => response.json())
+            .then((data) => {
+                asyncTable.update(
+                    {
+                        rows: data.map((card) => ({
+                            ...card,
+                            Col25Val: `${formatClass(card.Col25.value)}`,
+                            Col10Val: `<span style="display:none">${TitleTags[card.Col8].title} ${NameTags[card.Col10]}</span><span class="fw-light text-capitalize">${TitleTags[card.Col8].title}</span><br><span class="fw-normal text-uppercase">${NameTags[card.Col10]}</span>`,
+                            Col18f : `${formatIcon(card.Col18, 'bg-health me-2')}`,
+                            Col19f : `${formatIcon(card.Col19, 'bg-attack me-2')}`,
+                            Col20f : `${formatIcon(card.Col20, 'bg-toughness me-2')}`,
+                            Col21f : `${formatIcon(card.Col21, 'bg-recovery me-2')}`
+                        })),
+                    },
+                    { loading: false }
+                );
+            });
+    };
+
+    document.getElementById('datatable-search-input').addEventListener('input', (e) => {
+        asyncTable.search(e.target.value);
+    });
+
+    asyncTable.update(null, { loading: true });
+    setTimeout(loadData, 1000);
+</script>
+
 </html>

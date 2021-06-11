@@ -1,0 +1,32 @@
+{
+  "1": {
+    "min": "0",
+    "max": "255",
+    "Rarity": "Bronze",
+    "icon": "Bronze.png"
+  },
+  "2": {
+    "min": "256",
+    "max": "511",
+    "Rarity": "Silver",
+    "icon": "Silver.png"
+  },
+  "3": {
+    "min": "512",
+    "max": "767",
+    "Rarity": "Gold",
+    "icon": "Gold.png"
+  },
+  "4": {
+    "min": "768",
+    "max": "1023",
+    "Rarity": "Diamnod",
+    "icon": "Diamond.png"
+  },
+  "5": {
+    "min": "1024",
+    "max": "1500",
+    "Rarity": "Boss",
+    "icon": "Boss.png"
+  }
+}

@@ -1,0 +1,1057 @@
+{
+  "94044": {
+    "spacer": "0",
+    "nameId": "34",
+    "title": "Scourage"
+  },
+  "94048": {
+    "spacer": "0",
+    "nameId": "40",
+    "title": "Dragon Breath"
+  },
+  "94052": {
+    "spacer": "0",
+    "nameId": "24",
+    "title": "Covert Ops"
+  },
+  "94055": {
+    "spacer": "0",
+    "nameId": "24",
+    "title": "Standard"
+  },
+  "94058": {
+    "spacer": "0",
+    "nameId": "24",
+    "title": "Undercover"
+  },
+  "94061": {
+    "spacer": "0",
+    "nameId": "24",
+    "title": "Strike Force"
+  },
+  "94064": {
+    "spacer": "0",
+    "nameId": "26",
+    "title": "Standard"
+  },
+  "94068": {
+    "spacer": "0",
+    "nameId": "23",
+    "title": "Swarm Queen"
+  },
+  "94071": {
+    "spacer": "0",
+    "nameId": "23",
+    "title": "Venomous"
+  },
+  "94074": {
+    "spacer": "0",
+    "nameId": "23",
+    "title": "Standard"
+  },
+  "94077": {
+    "spacer": "0",
+    "nameId": "23",
+    "title": "Wretch"
+  },
+  "94081": {
+    "spacer": "0",
+    "nameId": "12",
+    "title": "Standard"
+  },
+  "94084": {
+    "spacer": "0",
+    "nameId": "12",
+    "title": "Master of Souls"
+  },
+  "94087": {
+    "spacer": "0",
+    "nameId": "12",
+    "title": "Spectral"
+  },
+  "94090": {
+    "spacer": "0",
+    "nameId": "12",
+    "title": "Pharaoh"
+  },
+  "94093": {
+    "spacer": "0",
+    "nameId": "12",
+    "title": "Klassic"
+  },
+  "94097": {
+    "spacer": "0",
+    "nameId": "21",
+    "title": "Gunslinger"
+  },
+  "94100": {
+    "spacer": "0",
+    "nameId": "21",
+    "title": "Day of the Dead"
+  },
+  "94103": {
+    "spacer": "0",
+    "nameId": "21",
+    "title": "Black Dragon"
+  },
+  "94107": {
+    "spacer": "0",
+    "nameId": "13",
+    "title": "Nightmare"
+  },
+  "94111": {
+    "spacer": "0",
+    "nameId": "3",
+    "title": "Tigrar Fury"
+  },
+  "94114": {
+    "spacer": "0",
+    "nameId": "3",
+    "title": "Klassic"
+  },
+  "94118": {
+    "spacer": "0",
+    "nameId": "14",
+    "title": "High Tech"
+  },
+  "94124": {
+    "spacer": "0",
+    "nameId": "14",
+    "title": "Standard"
+  },
+  "94127": {
+    "spacer": "0",
+    "nameId": "14",
+    "title": "Kosplay"
+  },
+  "94130": {
+    "spacer": "0",
+    "nameId": "14",
+    "title": "Cybernetic"
+  },
+  "94134": {
+    "spacer": "0",
+    "nameId": "35",
+    "title": "MK11"
+  },
+  "94137": {
+    "spacer": "0",
+    "nameId": "35",
+    "title": "Assassin"
+  },
+  "94140": {
+    "spacer": "0",
+    "nameId": "35",
+    "title": "Day of the Dead"
+  },
+  "94143": {
+    "spacer": "0",
+    "nameId": "35",
+    "title": "Klassic"
+  },
+  "94147": {
+    "spacer": "0",
+    "nameId": "30",
+    "title": "Slasher"
+  },
+  "94150": {
+    "spacer": "0",
+    "nameId": "30",
+    "title": "Unstoppable"
+  },
+  "94153": {
+    "spacer": "0",
+    "nameId": "30",
+    "title": "Ninghtmare"
+  },
+  "94157": {
+    "spacer": "0",
+    "nameId": "25",
+    "title": "Heavy Weapons"
+  },
+  "94160": {
+    "spacer": "0",
+    "nameId": "25",
+    "title": "Standard"
+  },
+  "94163": {
+    "spacer": "0",
+    "nameId": "25",
+    "title": "Circle of Shadow"
+  },
+  "94166": {
+    "spacer": "0",
+    "nameId": "25",
+    "title": "Farmer"
+  },
+  "94169": {
+    "spacer": "0",
+    "nameId": "25",
+    "title": "Klassic"
+  },
+  "94172": {
+    "spacer": "0",
+    "nameId": "27",
+    "title": "Standard"
+  },
+  "94176": {
+    "spacer": "0",
+    "nameId": "22",
+    "title": "Standard"
+  },
+  "94179": {
+    "spacer": "0",
+    "nameId": "22",
+    "title": "Strike Force"
+  },
+  "94182": {
+    "spacer": "0",
+    "nameId": "22",
+    "title": "Stunt Double"
+  },
+  "94185": {
+    "spacer": "0",
+    "nameId": "22",
+    "title": "A-List"
+  },
+  "94188": {
+    "spacer": "0",
+    "nameId": "22",
+    "title": "Kombat Cup"
+  },
+  "94191": {
+    "spacer": "0",
+    "nameId": "22",
+    "title": "Ninja Mime"
+  },
+  "94195": {
+    "spacer": "0",
+    "nameId": "43",
+    "title": "Black Dragon"
+  },
+  "94198": {
+    "spacer": "0",
+    "nameId": "43",
+    "title": "MK11"
+  },
+  "94202": {
+    "spacer": "0",
+    "nameId": "11",
+    "title": "Black Dragon"
+  },
+  "94205": {
+    "spacer": "0",
+    "nameId": "11",
+    "title": "Commando"
+  },
+  "94208": {
+    "spacer": "0",
+    "nameId": "11",
+    "title": "Standard"
+  },
+  "94211": {
+    "spacer": "0",
+    "nameId": "11",
+    "title": "Klassic"
+  },
+  "94215": {
+    "spacer": "0",
+    "nameId": "15",
+    "title": "Balanced"
+  },
+  "94218": {
+    "spacer": "0",
+    "nameId": "15",
+    "title": "Possessed"
+  },
+  "94221": {
+    "spacer": "0",
+    "nameId": "15",
+    "title": "Standard"
+  },
+  "94224": {
+    "spacer": "0",
+    "nameId": "15",
+    "title": "Elder God"
+  },
+  "94227": {
+    "spacer": "0",
+    "nameId": "15",
+    "title": "Ronin"
+  },
+  "94237": {
+    "spacer": "0",
+    "nameId": "16",
+    "title": "Assassin"
+  },
+  "94240": {
+    "spacer": "0",
+    "nameId": "16",
+    "title": "Mournful"
+  },
+  "94243": {
+    "spacer": "0",
+    "nameId": "16",
+    "title": "Circle of Shadow"
+  },
+  "94246": {
+    "spacer": "0",
+    "nameId": "16",
+    "title": "Day of the Dead"
+  },
+  "94249": {
+    "spacer": "0",
+    "nameId": "16",
+    "title": "Ronin"
+  },
+  "94252": {
+    "spacer": "0",
+    "nameId": "16",
+    "title": "Klassic"
+  },
+  "94256": {
+    "spacer": "0",
+    "nameId": "7",
+    "title": "Blood God"
+  },
+  "94259": {
+    "spacer": "0",
+    "nameId": "7",
+    "title": "Sun God"
+  },
+  "94262": {
+    "spacer": "0",
+    "nameId": "7",
+    "title": "Standard"
+  },
+  "94265": {
+    "spacer": "0",
+    "nameId": "7",
+    "title": "Dark lord"
+  },
+  "94268": {
+    "spacer": "0",
+    "nameId": "8",
+    "title": "Standard"
+  },
+  "94272": {
+    "spacer": "0",
+    "nameId": "19",
+    "title": "Bojutsu"
+  },
+  "94275": {
+    "spacer": "0",
+    "nameId": "19",
+    "title": "Shaolin"
+  },
+  "94278": {
+    "spacer": "0",
+    "nameId": "19",
+    "title": "Standard"
+  },
+  "94281": {
+    "spacer": "0",
+    "nameId": "19",
+    "title": "Marksman"
+  },
+  "94285": {
+    "spacer": "0",
+    "nameId": "18",
+    "title": "Shaolin Fist"
+  },
+  "94288": {
+    "spacer": "0",
+    "nameId": "18",
+    "title": "Shaolin master"
+  },
+  "94291": {
+    "spacer": "0",
+    "nameId": "18",
+    "title": "Hat Trick"
+  },
+  "94294": {
+    "spacer": "0",
+    "nameId": "18",
+    "title": "Circle of Shadow"
+  },
+  "94297": {
+    "spacer": "0",
+    "nameId": "17",
+    "title": "Standard"
+  },
+  "94301": {
+    "spacer": "0",
+    "nameId": "42",
+    "title": "Nightmare"
+  },
+  "94305": {
+    "spacer": "0",
+    "nameId": "29",
+    "title": "Flaming Fists"
+  },
+  "94308": {
+    "spacer": "0",
+    "nameId": "29",
+    "title": "Circle of Shadow"
+  },
+  "94311": {
+    "spacer": "0",
+    "nameId": "29",
+    "title": "Klassic"
+  },
+  "94315": {
+    "spacer": "0",
+    "nameId": "28",
+    "title": "Piercing"
+  },
+  "94318": {
+    "spacer": "0",
+    "nameId": "28",
+    "title": "Revenous"
+  },
+  "94321": {
+    "spacer": "0",
+    "nameId": "28",
+    "title": "Vampired"
+  },
+  "94324": {
+    "spacer": "0",
+    "nameId": "28",
+    "title": "Klassic"
+  },
+  "94328": {
+    "spacer": "0",
+    "nameId": "47",
+    "title": "MK11"
+  },
+  "94331": {
+    "spacer": "0",
+    "nameId": "47",
+    "title": "Klassic"
+  },
+  "94341": {
+    "spacer": "0",
+    "nameId": "10",
+    "title": "Standard"
+  },
+  "94344": {
+    "spacer": "0",
+    "nameId": "9",
+    "title": "Warlock"
+  },
+  "94347": {
+    "spacer": "0",
+    "nameId": "9",
+    "title": "Circle of Shadow"
+  },
+  "94351": {
+    "spacer": "0",
+    "nameId": "1",
+    "title": "MK11"
+  },
+  "94354": {
+    "spacer": "0",
+    "nameId": "1",
+    "title": "Thunder God"
+  },
+  "94357": {
+    "spacer": "0",
+    "nameId": "1",
+    "title": "Klassic"
+  },
+  "94360": {
+    "spacer": "0",
+    "nameId": "1",
+    "title": "Dark"
+  },
+  "94363": {
+    "spacer": "0",
+    "nameId": "1",
+    "title": "Injustice 2"
+  },
+  "94367": {
+    "spacer": "0",
+    "nameId": "49",
+    "title": "MK11"
+  },
+  "94371": {
+    "spacer": "0",
+    "nameId": "20",
+    "title": "Nimble"
+  },
+  "94374": {
+    "spacer": "0",
+    "nameId": "20",
+    "title": "Noxious"
+  },
+  "94377": {
+    "spacer": "0",
+    "nameId": "20",
+    "title": "Boss"
+  },
+  "94380": {
+    "spacer": "0",
+    "nameId": "20",
+    "title": "Standard"
+  },
+  "94383": {
+    "spacer": "0",
+    "nameId": "20",
+    "title": "Karken"
+  },
+  "94386": {
+    "spacer": "0",
+    "nameId": "20",
+    "title": "Klassic"
+  },
+  "94389": {
+    "spacer": "0",
+    "nameId": "39",
+    "title": "Standard"
+  },
+  "94393": {
+    "spacer": "0",
+    "nameId": "2",
+    "title": "MK11"
+  },
+  "94396": {
+    "spacer": "0",
+    "nameId": "2",
+    "title": "Ninjutsu"
+  },
+  "94399": {
+    "spacer": "0",
+    "nameId": "2",
+    "title": "Inferno"
+  },
+  "94402": {
+    "spacer": "0",
+    "nameId": "2",
+    "title": "Standard"
+  },
+  "94405": {
+    "spacer": "0",
+    "nameId": "2",
+    "title": "Hanzo Hasashi"
+  },
+  "94408": {
+    "spacer": "0",
+    "nameId": "2",
+    "title": "Kold War"
+  },
+  "94411": {
+    "spacer": "0",
+    "nameId": "2",
+    "title": "Injustice"
+  },
+  "94414": {
+    "spacer": "0",
+    "nameId": "2",
+    "title": "Klassic"
+  },
+  "94417": {
+    "spacer": "0",
+    "nameId": "2",
+    "title": "Hellspawn"
+  },
+  "94420": {
+    "spacer": "0",
+    "nameId": "2",
+    "title": "Strike Force"
+  },
+  "94423": {
+    "spacer": "0",
+    "nameId": "5",
+    "title": "Standard"
+  },
+  "94427": {
+    "spacer": "0",
+    "nameId": "48",
+    "title": "MK11"
+  },
+  "94431": {
+    "spacer": "0",
+    "nameId": "38",
+    "title": "Konqueror"
+  },
+  "94435": {
+    "spacer": "0",
+    "nameId": "31",
+    "title": "Vengeful"
+  },
+  "94438": {
+    "spacer": "0",
+    "nameId": "31",
+    "title": "Bone Shaper"
+  },
+  "94442": {
+    "spacer": "0",
+    "nameId": "44",
+    "title": "Assassin"
+  },
+  "94445": {
+    "spacer": "0",
+    "nameId": "44",
+    "title": "MK11"
+  },
+  "94448": {
+    "spacer": "0",
+    "nameId": "44",
+    "title": "Kold War"
+  },
+  "94452": {
+    "spacer": "0",
+    "nameId": "46",
+    "title": "Klassic"
+  },
+  "94456": {
+    "spacer": "0",
+    "nameId": "4",
+    "title": "Demolition"
+  },
+  "94459": {
+    "spacer": "0",
+    "nameId": "4",
+    "title": "Tactical"
+  },
+  "94462": {
+    "spacer": "0",
+    "nameId": "4",
+    "title": "Standard"
+  },
+  "94465": {
+    "spacer": "0",
+    "nameId": "4",
+    "title": "Kombat Cup"
+  },
+  "94468": {
+    "spacer": "0",
+    "nameId": "4",
+    "title": "Kold War"
+  },
+  "94471": {
+    "spacer": "0",
+    "nameId": "4",
+    "title": "Boss"
+  },
+  "94474": {
+    "spacer": "0",
+    "nameId": "4",
+    "title": "Klassic"
+  },
+  "94478": {
+    "spacer": "0",
+    "nameId": "6",
+    "title": "Standard"
+  },
+  "94481": {
+    "spacer": "0",
+    "nameId": "0",
+    "title": "MK11"
+  },
+  "94484": {
+    "spacer": "0",
+    "nameId": "0",
+    "title": "Standard"
+  },
+  "94487": {
+    "spacer": "0",
+    "nameId": "0",
+    "title": "Cryomancer"
+  },
+  "94490": {
+    "spacer": "0",
+    "nameId": "0",
+    "title": "Grandmaster"
+  },
+  "94493": {
+    "spacer": "0",
+    "nameId": "0",
+    "title": "Circle of Shadow"
+  },
+  "94496": {
+    "spacer": "0",
+    "nameId": "0",
+    "title": "Kold War"
+  },
+  "94499": {
+    "spacer": "0",
+    "nameId": "0",
+    "title": "Klassic"
+  },
+  "94503": {
+    "spacer": "0",
+    "nameId": "37",
+    "title": "Shirai Ryu"
+  },
+  "94506": {
+    "spacer": "0",
+    "nameId": "37",
+    "title": "Ronin"
+  },
+  "94510": {
+    "spacer": "0",
+    "nameId": "33",
+    "title": "Kobu Jutsu"
+  },
+  "94513": {
+    "spacer": "0",
+    "nameId": "33",
+    "title": "Trecherous"
+  },
+  "94520": {
+    "spacer": "102",
+    "nameId": "45",
+    "title": "Guardian"
+  },
+  "94523": {
+    "spacer": "0",
+    "nameId": "45",
+    "title": "Dark fate"
+  },
+  "94527": {
+    "spacer": "0",
+    "nameId": "36",
+    "title": "Aftershock"
+  },
+  "94537": {
+    "spacer": "0",
+    "nameId": "32",
+    "title": "Cyrax (LK-4d4)"
+  },
+  "94540": {
+    "spacer": "0",
+    "nameId": "32",
+    "title": "Sektor (LK-9T9)"
+  },
+  "94543": {
+    "spacer": "0",
+    "nameId": "32",
+    "title": "Smoke"
+  },
+  "94546": {
+    "spacer": "0",
+    "nameId": "32",
+    "title": "Sub Zero"
+  },
+  "94794": {
+    "spacer": "0",
+    "nameId": "40",
+    "title": "Boss"
+  },
+  "94809": {
+    "spacer": "0",
+    "nameId": "24",
+    "title": "Boss"
+  },
+  "94819": {
+    "spacer": "0",
+    "nameId": "23",
+    "title": "Boss"
+  },
+  "94833": {
+    "spacer": "0",
+    "nameId": "12",
+    "title": "Boss"
+  },
+  "94838": {
+    "spacer": "0",
+    "nameId": "12",
+    "title": "Boss"
+  },
+  "94843": {
+    "spacer": "0",
+    "nameId": "12",
+    "title": "Boss"
+  },
+  "94849": {
+    "spacer": "0",
+    "nameId": "21",
+    "title": "Boss"
+  },
+  "94854": {
+    "spacer": "0",
+    "nameId": "21",
+    "title": "Boss"
+  },
+  "94862": {
+    "spacer": "0",
+    "nameId": "13",
+    "title": "Boss"
+  },
+  "94868": {
+    "spacer": "0",
+    "nameId": "3",
+    "title": "Boss"
+  },
+  "94876": {
+    "spacer": "0",
+    "nameId": "14",
+    "title": "Boss"
+  },
+  "94886": {
+    "spacer": "0",
+    "nameId": "14",
+    "title": "Boss"
+  },
+  "94896": {
+    "spacer": "0",
+    "nameId": "35",
+    "title": "Boss"
+  },
+  "94901": {
+    "spacer": "0",
+    "nameId": "35",
+    "title": "Boss"
+  },
+  "94911": {
+    "spacer": "0",
+    "nameId": "30",
+    "title": "Boss"
+  },
+  "94934": {
+    "spacer": "0",
+    "nameId": "22",
+    "title": "Boss"
+  },
+  "94943": {
+    "spacer": "0",
+    "nameId": "22",
+    "title": "Boss"
+  },
+  "94956": {
+    "spacer": "0",
+    "nameId": "11",
+    "title": "Boss"
+  },
+  "94965": {
+    "spacer": "0",
+    "nameId": "11",
+    "title": "Boss"
+  },
+  "94977": {
+    "spacer": "0",
+    "nameId": "15",
+    "title": "Boss"
+  },
+  "94982": {
+    "spacer": "0",
+    "nameId": "15",
+    "title": "Boss"
+  },
+  "94993": {
+    "spacer": "0",
+    "nameId": "41",
+    "title": "Boss"
+  },
+  "94999": {
+    "spacer": "0",
+    "nameId": "16",
+    "title": "Boss"
+  },
+  "95004": {
+    "spacer": "0",
+    "nameId": "16",
+    "title": "Boss"
+  },
+  "95009": {
+    "spacer": "0",
+    "nameId": "16",
+    "title": "Boss"
+  },
+  "95014": {
+    "spacer": "0",
+    "nameId": "16",
+    "title": "Boss"
+  },
+  "95019": {
+    "spacer": "0",
+    "nameId": "16",
+    "title": "Boss"
+  },
+  "95029": {
+    "spacer": "0",
+    "nameId": "7",
+    "title": "Boss"
+  },
+  "95034": {
+    "spacer": "0",
+    "nameId": "7",
+    "title": "Boss"
+  },
+  "95039": {
+    "spacer": "0",
+    "nameId": "7",
+    "title": "Boss"
+  },
+  "95044": {
+    "spacer": "0",
+    "nameId": "8",
+    "title": "Standard"
+  },
+  "95050": {
+    "spacer": "0",
+    "nameId": "19",
+    "title": "Boss"
+  },
+  "95057": {
+    "spacer": "0",
+    "nameId": "19",
+    "title": "Boss"
+  },
+  "95062": {
+    "spacer": "0",
+    "nameId": "19",
+    "title": "Boss"
+  },
+  "95068": {
+    "spacer": "0",
+    "nameId": "18",
+    "title": "Boss"
+  },
+  "95077": {
+    "spacer": "0",
+    "nameId": "18",
+    "title": "Boss"
+  },
+  "95085": {
+    "spacer": "0",
+    "nameId": "42",
+    "title": "Boss"
+  },
+  "95091": {
+    "spacer": "0",
+    "nameId": "29",
+    "title": "Boss"
+  },
+  "95101": {
+    "spacer": "0",
+    "nameId": "28",
+    "title": "Boss"
+  },
+  "95111": {
+    "spacer": "0",
+    "nameId": "28",
+    "title": "Boss"
+  },
+  "95116": {
+    "spacer": "0",
+    "nameId": "28",
+    "title": "Boss"
+  },
+  "95133": {
+    "spacer": "0",
+    "nameId": "9",
+    "title": "Boss"
+  },
+  "95138": {
+    "spacer": "0",
+    "nameId": "9",
+    "title": "Boss"
+  },
+  "95147": {
+    "spacer": "0",
+    "nameId": "1",
+    "title": "Boss"
+  },
+  "95155": {
+    "spacer": "0",
+    "nameId": "1",
+    "title": "Boss"
+  },
+  "95174": {
+    "spacer": "0",
+    "nameId": "20",
+    "title": "Boss"
+  },
+  "95179": {
+    "spacer": "0",
+    "nameId": "20",
+    "title": "Boss"
+  },
+  "95187": {
+    "spacer": "0",
+    "nameId": "2",
+    "title": "Boss"
+  },
+  "95195": {
+    "spacer": "0",
+    "nameId": "2",
+    "title": "Boss"
+  },
+  "95208": {
+    "spacer": "0",
+    "nameId": "2",
+    "title": "Boss"
+  },
+  "95213": {
+    "spacer": "0",
+    "nameId": "2",
+    "title": "Boss"
+  },
+  "95235": {
+    "spacer": "0",
+    "nameId": "31",
+    "title": "Boss"
+  },
+  "95240": {
+    "spacer": "0",
+    "nameId": "31",
+    "title": "Boss"
+  },
+  "95288": {
+    "spacer": "0",
+    "nameId": "0",
+    "title": "Boss"
+  },
+  "95299": {
+    "spacer": "0",
+    "nameId": "0",
+    "title": "Boss"
+  },
+  "95309": {
+    "spacer": "0",
+    "nameId": "37",
+    "title": "Boss"
+  },
+  "95312": {
+    "spacer": "0",
+    "nameId": "37",
+    "title": "Boss"
+  },
+  "95320": {
+    "spacer": "0",
+    "nameId": "33",
+    "title": "Boss"
+  },
+  "95334": {
+    "spacer": "0",
+    "nameId": "36",
+    "title": "Boss"
+  },
+  "95337": {
+    "spacer": "0",
+    "nameId": "36",
+    "title": "Black Dragon"
+  },
+  "95343": {
+    "spacer": "0",
+    "nameId": "32",
+    "title": "Boss"
+  },
+  "95348": {
+    "spacer": "0",
+    "nameId": "32",
+    "title": "Boss"
+  },
+  "95353": {
+    "spacer": "0",
+    "nameId": "32",
+    "title": "Boss"
+  },
+  "95358": {
+    "spacer": "0",
+    "nameId": "32",
+    "title": "Boss"
+  }
+}
