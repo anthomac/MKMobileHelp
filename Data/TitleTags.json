@@ -162,7 +162,7 @@
   "94153": {
     "spacer": "0",
     "nameId": "30",
-    "title": "Ninghtmare"
+    "title": "Nightmare"
   },
   "94157": {
     "spacer": "0",
@@ -843,6 +843,11 @@
     "spacer": "0",
     "nameId": "41",
     "title": "Boss"
+  },
+  "767": {
+    "spacer": "0",
+    "nameId": "41",
+    "title": "Shokan Warrior"
   },
   "94999": {
     "spacer": "0",

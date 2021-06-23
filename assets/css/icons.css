@@ -1,0 +1,88 @@
+.bg-cards_stats_sm{
+    width: 17px; height: 16px;
+}
+
+.bg-cards_stats_sm.attack {
+    background: url('../image/props/cards_stats_sm.png') -0 -0;
+}
+.bg-cards_stats_sm.health {
+    background: url('../image/props/cards_stats_sm.png') -0px -16px;
+}
+.bg-cards_stats_sm.toughness {
+    background: url('../image/props/cards_stats_sm.png') -17px -16px;
+}
+.bg-cards_stats_sm.recovery {
+    background: url('../image/props/cards_stats_sm.png') -17px -0px;
+}
+
+.bg-rarity{
+    width: 25px; height: 29px;
+}
+
+.bg-rarity.gold {
+    background: url('../image/props/rarity_md.png') -30px -0;
+}
+.bg-rarity.silver {
+    background: url('../image/props/rarity_md.png') -30px -35px;
+}
+.bg-rarity.bronze {
+    background: url('../image/props/rarity_md.png') -0 -0;
+}
+.bg-rarity.diamond {
+    background: url('../image/props/rarity_md.png') -0 -35px;
+}
+
+.bg-cards_class_sm{
+    width: 30px; height: 30px;
+}
+.bg-cards_class_sm_p{
+    width: 15px; height: 30px;
+}
+.bg-cards_class_sm.Nomad {
+    background: url('../image/props/cards_class_sm.png') -15px 2px no-repeat;
+}
+.bg-cards_class_sm_p.Netherrealmleft {
+    background: url('../image/props/cards_class_sm.png') 2px -26px no-repeat;
+}
+.bg-cards_class_sm.Netherrealm {
+    background: url('../image/props/cards_class_sm.png') -15px -26px no-repeat;
+}
+.bg-cards_class_sm_p.Netherrealmright {
+    background: url('../image/props/cards_class_sm.png') -44px -26px no-repeat;
+}
+.bg-cards_class_sm_p.Elder_Godleft {
+    background: url('../image/props/cards_class_sm.png') 2px -55px no-repeat;
+}
+.bg-cards_class_sm.Elder_God {
+    background: url('../image/props/cards_class_sm.png') -15px -55px no-repeat;
+}
+.bg-cards_class_sm_p.Elder_Godright {
+    background: url('../image/props/cards_class_sm.png') -44px -55px no-repeat;
+}
+.bg-cards_class_sm_p.Outworldleft {
+    background: url('../image/props/cards_class_sm.png') 2px -84px no-repeat;
+}
+.bg-cards_class_sm.Outworld {
+    background: url('../image/props/cards_class_sm.png') -15px -84px no-repeat;
+}
+.bg-cards_class_sm_p.Outworldright {
+    background: url('../image/props/cards_class_sm.png') -44px -84px no-repeat;
+}
+.bg-cards_class_sm_p.Martial_Artistleft {
+    background: url('../image/props/cards_class_sm.png') 2px -114px no-repeat;
+}
+.bg-cards_class_sm.Martial_Artist {
+    background: url('../image/props/cards_class_sm.png') -15px -114px no-repeat;
+}
+.bg-cards_class_sm_p.Martial_Artistright {
+    background: url('../image/props/cards_class_sm.png') -44px -114px no-repeat;
+}
+.bg-cards_class_sm_p.Spec_Opsleft {
+    background: url('../image/props/cards_class_sm.png') 2px -144px no-repeat;
+}
+.bg-cards_class_sm.Spec_Ops {
+    background: url('../image/props/cards_class_sm.png') -15px -144px no-repeat;
+}
+.bg-cards_class_sm_p.Spec_Opsright {
+    background: url('../image/props/cards_class_sm.png') -44px -144px no-repeat;
+}

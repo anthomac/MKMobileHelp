@@ -1,0 +1,39 @@
+body {
+	background-image: url('../img/bg.jpg');
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position: center;
+	background-color: black;
+}
+
+.select-arrow:before {
+	content: "▼"
+}
+
+.text-youtube,
+.text-youtube:hover {
+	color: #FF0000 !important;
+}
+
+.text-twitter,
+.text-twitter:hover {
+	color: #00acee !important;
+}
+
+.text-telegram,
+.text-telegram:hover {
+	color: #0088cc !important;
+}
+
+.text-navbar {
+	color: #B06AB3 !important;
+}
+
+.text-navbar:hover, .text-navbar:active {
+	color: #4158ad !important;
+}
+
+main {
+	padding-bottom: 20px;
+	padding-top: 50px;
+}

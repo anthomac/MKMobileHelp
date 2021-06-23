@@ -1,0 +1,341 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+    <title>Material Design for Bootstrap</title>
+    <!-- MDB icon -->
+    <link rel="icon" href="/favicon_io/favicon.ico" type="image/x-icon" />
+    <!-- Font Awesome -->
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.11.2/css/all.css" />
+    <!-- Google Fonts Roboto -->
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&display=swap" />
+    <!-- MDB -->
+    <link rel="stylesheet" href="/assets/css/mdb.dark.min.css" />
+    <!-- Custom styles -->
+    <link rel="stylesheet" href="/assets/css/global.css" />
+    <link rel="stylesheet" href="/assets/css/icons.css" />
+</head>
+
+<body>
+    <!-- Start your project here-->
+    <!--Main Navigation-->
+
+    <!-- Navbar -->
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top">
+        <div class="container">
+            <a class="navbar-brand" href="#">
+                <img src="/assets/image/logo/mainLogo.svg" alt="TMW" height="20" loading="lazy">
+            </a>
+            <button class="navbar-toggler" type="button" data-mdb-toggle="collapse"
+                data-mdb-target="#navbarTogglerDemo02" aria-controls="navbarTogglerDemo02" aria-expanded="false"
+                aria-label="Toggle navigation">
+                <i class="fas fa-bars"></i>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarTogglerDemo02">
+                <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+                    <li class="nav-item">
+                        <a class="nav-link text-navbar" href="/index.html">HOME</a>
+                    </li>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle text-navbar" href="#" id="navbarDropdownMenuLink"
+                            role="button" data-mdb-toggle="dropdown" aria-expanded="false">
+                            CHARACTERS
+                        </a>
+                        <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+                            <li>
+                                <a class="dropdown-item text-navbar"
+                                    href="/pages/characters/character-stats.html">CHARACTER-STATS</a>
+                            </li>
+                            <li>
+                                <a class="dropdown-item disabled" href="#">Upcoming</a>
+                            </li>
+                        </ul>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link disabled" href="#" tabindex="-1" aria-disabled="true">UPCOMING</a>
+                    </li>
+                </ul>
+                <ul class="navbar-nav ms-auto d-flex flex-row">
+                    <!-- Icons -->
+                    <li class="nav-item me-4 me-lg-3">
+                        <a class="nav-link text-youtube" href="https://youtube.com/tonimacsmodworld" rel="nofollow"
+                            target="_blank">
+                            <i class="fab fa-youtube"></i>
+                        </a>
+                    </li>
+                    <li class="nav-item me-4 me-lg-3">
+                        <a class="nav-link text-telegram" href="https://t.me/tonimacsmodworld" rel="nofollow"
+                            target="_blank">
+                            <i class="fab fa-telegram"></i>
+                        </a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+    <!-- Navbar -->
+    <!--Main Navigation-->
+
+    <!--Main layout-->
+    <main class="mt-5 mb-5">
+        <div class="container">
+            <!--Section: Content-->
+            <section class="text-center">
+                <h4 class="mb-5 font-monospace"><strong>MK Mobile Character Stats </strong> [Updated to MK 3.2.1]</h4>
+                <div class="form-outline mb-4">
+                    <input type="text" class="form-control" id="datatable-search-input">
+                    <label class="form-label" for="datatable-search-input">Search</label>
+                </div>
+                <div id="datatable" data-mdb-clickable-rows="true" class="text-center user-select-none">
+                </div>
+                <div class="modal fade" tabindex="-1" aria-hidden="true" id="previewCard">
+                    <div class="modal-dialog modal-fullscreen-sm-down">
+                        <div class="modal-content">
+                            <div class="modal-header" id="modal-header-previewCard">
+                                <button type="button" class="btn-close" data-mdb-dismiss="modal"
+                                    aria-label="Close"></button>
+                            </div>
+                            <div class="modal-body mt-4 mb-4" id="modal-body-previewCard">
+                                <div class="container">
+                                    <div class="row mb-4" id="modal-card-info">
+                                    </div>
+                                    <div class="row" id='modal-card-stats'></div>
+                                </div>
+                            </div>
+                            <div class="modal-footer">
+                                <button type="button" class="btn btn-primary btn-rounded clipboard"
+                                    data-mdb-clipboard-target="#copy-target-ggterm" onclick="copyData();">
+                                    <i class="far fa-copy me-2"></i> Game Guardian Search Term <i
+                                        class="fas fa-search ms-2"></i>
+                                </button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+            <!--Section: Content-->
+
+        </div>
+    </main>
+    <!--Main layout-->
+
+    <!--Footer-->
+    <footer class="text-center text-white fixed-bottom" style="background-color: #1b1b1b;">
+        <!-- Section: Social media -->
+        <!-- Youtube -->
+        <a class="btn btn-link btn-floating btn-lg text-youtube m-1" href="https://youtube.com/tonimacsmodworld"
+            target="_blank" role="button" data-mdb-ripple-color="dark"><i class="fab fa-youtube"></i></a>
+
+        <!-- Telegram -->
+        <a class="btn btn-link btn-floating btn-lg text-telegram m-1" href="https://t.me/tonimacsmodworld"
+            target="_blank" role="button" data-mdb-ripple-color="dark"><i class="fab fa-telegram"></i></a>
+
+        <!-- Section: Social media -->
+    </footer>
+
+    <!--Footer-->
+    <!-- End your project here-->
+</body>
+
+<!-- MDB -->
+<script type="text/javascript" src="/assets/js/mdb5.min.js"></script>
+<!-- Custom scripts -->
+<script type="text/javascript">
+    var NameTags;
+    var TitleTags;
+    var charClass;
+    var mkxPlayers;
+
+    const dataTable = document.getElementById('datatable');
+    const modal = document.getElementById('previewCard');
+    const modalBodyCardStats = document.getElementById('modal-card-stats');
+    const modalBodyCardInfo = document.getElementById('modal-card-info');
+    const modalHeader = document.getElementById('modal-header-previewCard');
+
+    const modalInstance = new mdb.Modal(modal);
+
+    const asyncCols = [
+        { label: 'DP', field: 'Col8', width: 80, sort: false, format: (cell, value) => { cell.innerHTML = '<div style="width:54px; height:48px;"><img src="assets/image/headshots/' + value + '.png" class="img-fluid" alt="No-Image" /></div>' } },
+        { label: 'Name', field: 'Col10Val', width: 200 },
+        { label: 'Rarity', field: 'Col14f', width: 100 },
+        { label: 'Type', field: 'Col25Val', width: 100 },
+        { label: 'Health', field: 'Col18', format: (cell, value) => { cell.innerHTML = '<i class="far bg-cards_stats_sm health me-2"></i><span class="fw-normal fs-6">' + value + '</span>' } },
+        { label: 'Attack', field: 'Col19', format: (cell, value) => { cell.innerHTML = '<i class="far bg-cards_stats_sm attack me-2"></i><span class="fw-normal fs-6">' + value + '</span>' } },
+        { label: 'Toughness', field: 'Col20', format: (cell, value) => { cell.innerHTML = '<i class="far bg-cards_stats_sm toughness me-2"></i><span class="fw-normal fs-6">' + value + '</span>' } },
+        { label: 'Recovery', field: 'Col21', format: (cell, value) => { cell.innerHTML = '<i class="far bg-cards_stats_sm recovery me-2"></i><span class="fw-normal fs-6">' + value + '</span>' } },
+    ];
+
+    dataTable.addEventListener('rowClick.mdb.datatable', (e) => {
+        const { index } = e;
+
+        const card = mkxPlayers[index];
+
+        modalHeader.innerHTML = `
+                <div style="width:54px; height:48px;"><img src="assets/image/headshots/${card.Col8}.png" class="img-fluid rounded-circle border border-white" alt="..." /></div>
+                <h5 class="mx-3 mb-0 font-monospace">
+                    <span class="fw-light text-capitalize">${TitleTags[card.Col8].title}</span> - 
+                    <strong><span class="text-uppercase">${NameTags[card.Col10]}</span></strong>
+                </h5>    
+                ${formatClass(card.Col25.value)}
+                <button type="button" class="btn-close" data-mdb-dismiss="modal" aria-label="Close"></button>`;
+        modalBodyCardInfo.innerHTML = `<div class="col-xs-12 mb-3 text-start"><i class="fas fa-user me-2"></i><span class="fw-normal">CHARACTER ID : </span>
+                                            <spn class="text-info"> ${card.Col8}* </span> <span class="text-warning fw-normal ms-2">[for 32 bit game only]</span></div>
+                                        <div class="col-xs-12 mb-2 text-start"><i class="fab fa-galactic-republic me-2"></i><span class="fw-normal">RARITY : </span>
+                                            <spn>${formatRarity(card.Col14, true)}</span></div>`;
+        modalBodyCardStats.innerHTML = `<div class="col-sm-6 mb-3 text-start"><i class="far bg-cards_stats_sm health me-2"></i><span class="fw-normal">HEALTH : </span><spn class="text-info">${card.Col18}</span></div>
+                                        <div class="col-sm-6 mb-3 text-start"><i class="far bg-cards_stats_sm attack me-2"></i><span class="fw-normal">ATTACK : </span><spn class="text-info">${card.Col19}</span></div>
+                                        <div class="col-sm-6 mb-3 text-start"><i class="far bg-cards_stats_sm toughness me-2"></i><span class="fw-normal">TOUGHNESS : </span><spn class="text-info">${card.Col20}</span></div>
+                                        <div class="col-sm-6 mb-3 text-start"><i class="far bg-cards_stats_sm recovery me-2"></i><span class="fw-normal">RECOVERY : </span><spn class="text-info">${card.Col21}</span></div>
+                                        <div class="col-xs-12 my-3 text-start"><i class="fas fa-search me-2"></i><span class="fw-normal">PLAYER SEARCH TERM : </span>
+                                            <span class="text-info" id="user-select-all copy-target-ggterm">${formatSeachTerms(card)}</span></div>`;
+        modalInstance.show();
+    });
+
+    const asyncTable = new mdb.Datatable(
+        dataTable,
+        {
+            columns: asyncCols,
+        },
+        { loading: true }
+    );
+
+    const formatClass = function (types) {
+        if (types) {
+            if ((types.length == 1 && charClass[types[0]]) || (types.length == 2 && !charClass[types[1]])) {
+                return '<i class="far bg-cards_class_sm ' + charClass[types[0]].img + '"></i>';
+            } else if (types.length == 2 && charClass[types[0]] && charClass[types[1]]) {
+                if ((charClass[types[0]].name == charClass[types[1]].name) || (charClass[types[0]].name == "Nomad")) {
+                    return '<i class="far bg-cards_class_sm ' + charClass[types[0]].img + '"></i>';
+                } else {
+                    return '<i class="far bg-cards_class_sm_p ' + charClass[types[0]].img + 'right"></i><i class="far bg-cards_class_sm_p ' + charClass[types[1]].img + 'left"></i>';
+                }
+            }
+        } else {
+            return "No Data";
+        }
+    }
+
+    const iOS = function () {
+        return [
+            'iPad Simulator',
+            'iPhone Simulator',
+            'iPod Simulator',
+            'iPad',
+            'iPhone',
+            'iPod'
+        ].includes(navigator.platform)
+            // iPad on iOS 13 detection
+            || (navigator.userAgent.includes("Mac") && "ontouchend" in document)
+    }
+    const formatSeachTerms = function (card) {
+        if (iOS()) {
+            return card.Col18 + ', ' + card.Col19 + ', ' + card.Col20 + ', ' + card.Col21;
+        } else {
+            return card.Col18 + ';' + card.Col19 + ';' + card.Col20 + ';' + card.Col21 + '::13';
+        }
+
+    }
+    const formatRarity = function (val, label) {
+        var css = "fab bg-rarity "
+        var text = "";
+        var sortTerm = ""
+        if (Number.isInteger(val)) {
+            if (val < 256) {
+                css = css + "bronze"
+                text = "Bronze"
+                sortTerm = "A"
+            } else if (val >= 256 && val <= 511) {
+                css = css + "silver"
+                text = "Silver"
+                sortTerm = "B"
+            } else if (val >= 512 && val <= 767) {
+                css = css + "gold"
+                text = "Gold"
+                sortTerm = "C"
+            } else if (val >= 768 && val <= 1023) {
+                css = css + "diamond"
+                text = "Diamond"
+                sortTerm = "D"
+            } else if (val >= 1024) {
+                css = css + "diamond"
+                text = "Boss"
+                sortTerm = "E"
+            }
+        }
+        if (label) {
+            return '<span class="text-info fw-normal">' + text + '</Span>';
+        } else {
+            return '<span style="display:none">' + sortTerm + '</span><i class="' + css + '"></i>';
+        }
+    }
+
+    const loadData = async () => {
+        NameTags = await (await fetch('/data/NameTags.json')).json();
+        TitleTags = await (await fetch('/data/TitleTags.json')).json();
+        charClass = await (await fetch('/data/CharacterClass.json')).json();
+        mkxPlayers = await (await fetch('/data/MKXPlayers.json')).json();
+        mkxPlayers = mkxPlayers.filter(function (card) {
+            return TitleTags[card.Col8].title !== "Boss";
+        });
+        asyncTable.update(
+            {
+                rows: mkxPlayers.map((card) => ({
+                    ...card,
+                    Col25Val: `${formatClass(card.Col25.value)}`,
+                    Col10Val: `<span style="display:none">${card.Col14} ${TitleTags[card.Col8].title} ${NameTags[card.Col10]} ${TitleTags[card.Col8].title} ${card.Col8} ${card.Col10}</span><span class="fw-light text-capitalize">${TitleTags[card.Col8].title}</span><br><span class="fw-normal text-uppercase">${NameTags[card.Col10]}</span>`,
+                    Col14f: `${formatRarity(card.Col14, false)}`,
+                })),
+            },
+            { loading: false, hover: true, entries: 7, entriesOptions: [7, 14, 25, 50, 200] }
+        );
+    };
+
+    document.getElementById('datatable-search-input').addEventListener('input', (e) => {
+        asyncTable.search(e.target.value);
+    });
+
+    asyncTable.update(null, { loading: true });
+    setTimeout(loadData, 1000);
+
+    const copyData = function () {
+        var text = document.getElementById('copy-target-ggterm').innerText
+        if (!navigator.clipboard) {
+            fallbackCopyTextToClipboard(text);
+            return;
+        }
+        navigator.clipboard.writeText(text).then(function () {
+            console.log('Async: Copying to clipboard was successful!');
+        }, function (err) {
+            console.error('Async: Could not copy text: ', err);
+        });
+    }
+
+    const fallbackCopyTextToClipboard = function (text) {
+        var textArea = document.createElement("textarea");
+        textArea.value = text;
+
+        // Avoid scrolling to bottom
+        textArea.style.top = "0";
+        textArea.style.left = "0";
+        textArea.style.position = "fixed";
+
+        document.body.appendChild(textArea);
+        textArea.focus();
+        textArea.select();
+
+        try {
+            var successful = document.execCommand('copy');
+            var msg = successful ? 'successful' : 'unsuccessful';
+            console.log('Fallback: Copying text command was ' + msg);
+        } catch (err) {
+            console.error('Fallback: Oops, unable to copy', err);
+        }
+
+        document.body.removeChild(textArea);
+    }
+
+</script>
+
+</html>
