@@ -271,10 +271,10 @@
     }
 
     const loadData = async () => {
-        NameTags = await (await fetch('/data/NameTags.json')).json();
-        TitleTags = await (await fetch('/data/TitleTags.json')).json();
-        charClass = await (await fetch('/data/CharacterClass.json')).json();
-        mkxPlayers = await (await fetch('/data/MKXPlayers.json')).json();
+        NameTags = await (await fetch('/Data/NameTags.json')).json();
+        TitleTags = await (await fetch('/Data/TitleTags.json')).json();
+        charClass = await (await fetch('/Data/CharacterClass.json')).json();
+        mkxPlayers = await (await fetch('/Data/MKXPlayers.json')).json();
         mkxPlayers = mkxPlayers.filter(function (card) {
             return TitleTags[card.Col8].title !== "Boss";
         });
